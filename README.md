@@ -1,6 +1,6 @@
 # Arabidopsis arenosa and A. lyrata genome assemblies
-This is a github repository with data associated to the manuscript (in prep)
-**"New assemblies of A. <i>arenosa</i> and <i>A. lyrata</i> suggests structural evidence for MADS-box type I family expansion"**
+This is a github repository with data associated to the manuscript (in prep)  
+**"New assemblies of A. <i>arenosa</i> and <i>A. lyrata</i> suggests structural evidence for MADS-box type I family expansion"**  
 
 ​​Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini
 
