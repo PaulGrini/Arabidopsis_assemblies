@@ -4,9 +4,9 @@ This is a github repository with data associated to the manuscript (in prep)
 
 ​​Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini
 
-Under Construction: 
-# 1. A. arenosa genome assembly
-# 2. A. ayrata genome assembly
+Under Construction:
+## 1. <i>Arabidopsis arenosa</i> [link](01_arenosa_assembly/)
+## 2. <i>Arabidopsis lyrata</i> [link](02_lyrata_assembly/)
 
 
 ![Screenshot 2022-10-21 at 17 44 54](https://user-images.githubusercontent.com/30120532/197236781-f378943e-4a45-4b51-b810-f290a70a729f.png)
