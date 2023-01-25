@@ -1,8 +1,9 @@
 # Arabidopsis arenosa and A. lyrata genome assemblies
-This is a github repository with data associated to the manuscript (in prep)  
-**Title:** "New assemblies of A. <i>arenosa</i> and <i>A. lyrata</i> suggests structural evidence for MADS-box type I family expansion"
+This is a github repository with data associated to the manuscript  
+   
+**"New assemblies of A. <i>arenosa</i> and <i>A. lyrata</i> suggests structural evidence for MADS-box type I family expansion"**
 
-​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini
+​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini (submitted) 
 
 **Under Construction**
 ## 1. <i>Arabidopsis arenosa</i> 
@@ -18,5 +19,11 @@ The assembly pipeline with scripts and additional information can be found  [her
 - The genome with repeateas softmasked according to RepeatMasker: [...](02_lyrata_assembly/)
 - The genome annotaiton in gtf format with the predicted genes from braker2 [Arabidopsis_lyrata_petraea_genome.annotation.gtf.gz](02_lyrata_assembly/Arabidopsis_lyrata_petraea_genome.annotation.gtf.gz).
 
-![Screenshot 2022-10-21 at 17 44 54](https://user-images.githubusercontent.com/30120532/197236781-f378943e-4a45-4b51-b810-f290a70a729f.png)
+## 3. Analysis
+In the paper we compared the new assemblies with previously published genomes from the Arabidopsis genus, as well as evoulution of the MADS-box gene family in the genus Arabidopsis.  
 
+#### MEME analysis 
+MEME analysis of  MADS-box genes type I and type II in <i>A. lyrata</i> ssp. <i>petraea</i>, <i>A. arenosa</i> Pusté Pole, <i>A. lyrata </i>ssp. <i>lyrata,</i> <i>A. arenosa</i> Strecno, <i>A. halleri</i>,  <i>Capsella rubella</i> and <i>C. grandiflora</i>
+
+- View the full [MEME results as html](https://htmlpreview.github.io/?https://github.com/krabberod/html_test/blob/main/meme.html)  
+- View/download the results as [a text file](03_analysis/06_MADS_MEME/meme_results.txt). 
