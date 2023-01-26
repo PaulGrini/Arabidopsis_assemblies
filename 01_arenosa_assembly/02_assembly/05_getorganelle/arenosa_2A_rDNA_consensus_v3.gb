@@ -1,0 +1,486 @@
+LOCUS       arenosa_2A_rDNA_consensus_sequence_v3        8208 bp    DNA     linear   UNA 22-JAN-2021
+DEFINITION  Alignment of 9 sequences: 08_masurca_rDNA_scf7180000003673
+            extraction (reversed), arenosa_orderd_rDNA_scaffold_7 (reversed),
+            p_h_ctg_rDNA_000156F extraction, p_h_ctg_rDNA_000156F,
+            p_h_ctg_rDNA_000156F, arenosa_orderd_rDNA_scaffold_7 (reversed),
+            arenosa_2A_rDNA_consensus_sequence_v2,
+            arenosa_orderd_rDNA_scaffold_7 extraction (reversed),
+            arenosa_orderd_rDNA_scaffold_7.
+ACCESSION   urn.local...38-cxak1xr
+VERSION     urn.local...38-cxak1xr
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     misc_feature    54..1889
+                     /note="/type=misc_feature<br>/vntifkey=21"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="47.45%"
+                     /X-Primary_Match="47.45%; Adjusted-Interval-0:0/0; 5'-ETS
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="99.13%"
+                     /Primary_Match="99.13%; Adjusted-Interval-0:0/0; 5'-ETS
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="5'-ETS"
+     primer_bind     complement(1756..1779)
+                     /Tm=63
+                     /Sequence="ATTCCCCGCCACATCCTCTCAAAC"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="91.67%"
+                     /X-Primary_Match="91.67%; Adjusted-Interval-0:0/0; S5 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="95.83%"
+                     /Primary_Match="95.83%; Adjusted-Interval-0:0/0; S5 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="S5"
+     rRNA            1799..3606
+                     /note="/type=rRNA<br>/vntifkey=58"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="99.06%"
+                     /X-Primary_Match="99.06%; Adjusted-Interval-0:0/0; 18S (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="99.83%"
+                     /Primary_Match="99.83%; Adjusted-Interval-0:0/0; 18S (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /Alternative_Match="99.23%; Adjusted-Interval-0:0/0; 18S
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /label="18S"
+     primer_bind     complement(1832..1853)
+                     /Tm=54
+                     /Sequence="TGCATGGCTTAATCTTTGAGAC"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r5 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; r5
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r5"
+     primer_bind     3310..3331
+                     /Tm=54
+                     /Sequence="TGCATGGCTTAATCTTTGAGAC"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="59.09%"
+                     /X-Primary_Match="59.09%; Adjusted-Interval-0:0/0; r5 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r5 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r5"
+     primer_bind     3552..3573
+                     /Tm=56
+                     /Sequence="AGGAAGGAGAAGTCGTAACAAG"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r8 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; r8
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r8"
+     primer_bind     3597..3618
+                     /Tm=56
+                     /Sequence="AGGATCATTGTCGATACCTGTC"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r7 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; r7
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r7"
+     misc_feature    3607..3873
+                     /note="/type=misc_feature<br>/vntifkey=21"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="92.54%"
+                     /X-Primary_Match="92.54%; Adjusted-Interval-0:0/0; ITS1
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="97.75%"
+                     /Primary_Match="97.75%; Adjusted-Interval-0:0/0; ITS1 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /Alternative_Match="94.40%; Adjusted-Interval-0:0/0; ITS1
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /label="ITS1"
+     primer_bind     complement(3607..3632)
+                     /Tm=58
+                     /Sequence="GTCGTTCTGTTTTGGACAGGTATCGA"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; S7/r3
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     S7/r3 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="S7/r3"
+     primer_bind     complement(3681..3702)
+                     /Tm=68
+                     /Sequence="CCACGGATCCGGCGGGCAAGG"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="90.91%"
+                     /X-Primary_Match="90.91%; Adjusted-Interval-0:0/0; p42/r1
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="95.45%"
+                     /Primary_Match="95.45%; Adjusted-Interval-0:0/0; p42/r1
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /Alternative_Match="90.48%; Adjusted-Interval-0:0/1;
+                     p42/r1 (<a href=""urn:local:.:h1-cx9df45"">rDNA
+                     Arabidopsis - seed</a>)"
+                     /label="p42/r1"
+     primer_bind     complement(3799..3820)
+                     /Tm=64
+                     /Sequence="ATGCCAGCCGTTCGTTTGCATG"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="95.45%"
+                     /Primary_Match="95.45%; Adjusted-Interval-0:0/0; p43 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /label="p43"
+     primer_bind     3860..3879
+                     /Tm=54
+                     /Sequence="GCGAACTGAAGTCTAAAACG"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="85.00%"
+                     /X-Primary_Match="85.00%; Adjusted-Interval-0:0/0; p4 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; p4 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="p4"
+     rRNA            3874..4037
+                     /note="/type=rRNA<br>/vntifkey=58"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; 5.8S (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="99.39%; Adjusted-Interval-0:0/0; 5.8S
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="5.8S"
+     primer_bind     complement(4036..4058)
+                     /Tm=62
+                     /Sequence="AGGATGGTGAGGGACGACGATTT"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="86.96%"
+                     /X-Primary_Match="86.96%; Adjusted-Interval-0:0/0; S9 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="95.65%"
+                     /Primary_Match="95.65%; Adjusted-Interval-0:0/0; S9 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="S9"
+     misc_feature    4038..4225
+                     /note="/type=misc_feature<br>/vntifkey=21"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="92.02%"
+                     /X-Primary_Match="92.02%; Adjusted-Interval-0:0/0; ITS2
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="98.40%"
+                     /Primary_Match="98.40%; Adjusted-Interval-0:0/0; ITS2 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /Alternative_Match="91.49%; Adjusted-Interval-0:0/0; ITS2
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /label="ITS2"
+     primer_bind     complement(4198..4220)
+                     /Tm=59
+                     /Sequence="GGACTTTGGGTCATCTACAGCTT"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; p44 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; p44
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="p44"
+     rRNA            4226..7613
+                     /note="/type=rRNA<br>/vntifkey=58"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="98.79%"
+                     /X-Primary_Match="98.79%; Adjusted-Interval-0:0/0; 25S (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="99.63%"
+                     /Primary_Match="99.63%; Adjusted-Interval-0:0/0; 25S (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /Alternative_Match="98.80%; Adjusted-Interval-0:0/0; 25S
+                     (<a href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /label="25S"
+     primer_bind     complement(4258..4281)
+                     /Tm=54
+                     /Sequence="CTCCGCTTATTGATATGCTTAAAC"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r4 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; r4
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r4"
+     primer_bind     complement(4291..4315)
+                     /Tm=57
+                     /Sequence="CCGTTACTAAGGGAATCCTTGTTAG"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; 25c (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; 25c
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="25c"
+     primer_bind     7518..7539
+                     /Tm=58
+                     /Sequence="GCAGACGACTTAAATACGCGAC"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="rDNA Arabidopsis - seed"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; r2 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; r2
+                     (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="r2"
+     primer_bind     complement(7606..7628)
+                     /Tm=59
+                     /Sequence="GGACTTTGGGTCATCTACAGCTT"
+                     /X-Transferred_From="rDNA Arabidopsis - seed"
+                     /X-Transferred_Similarity="56.52%"
+                     /X-Primary_Match="56.52%; Adjusted-Interval-0:0/0; p44 (<a
+                     href=""urn:local:.:h1-cx9df45"">rDNA Arabidopsis -
+                     seed</a>)"
+                     /note="Derived using Geneious Prime 2021.0.3 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="petraea_2L_rDNA_consensus"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; p44 (<a
+                     href=""urn:local:.:no-cx9i4hy"">petraea_2L_rDNA_consensus<
+                     /a>)"
+                     /label="p44"
+ORIGIN      
+        1 ctcgaaaaaa aatcgatcag tacgatggat cgtcgatcag tacgcatccg gacgtccggc
+       61 tggccgagga aatagtatgt gccgaaccaa cttttgaaaa tcatcgtacg ggatgcattt
+      121 ttttacgatc gaaagtctta aaatacatca ataaagagtg taggatgtca agcttgcatc
+      181 aaatgtgccc acggagcccg ggctaggcca tgatcatccg atgttggttt agctcgaaag
+      241 acctagctag aggtctccta aaattacgaa aatttaccag aaaataggat tcactatcct
+      301 tatgaagcat gcaaaaaatc agaacaaaat tccaagtatt tttttttttt tggcaccagt
+      361 gactcctcag acatttgcat ctccactggt gccagaccca aaaatggaca aaaagctata
+      421 taggggggtg ggtgttggtg aagtctgggc agaccgaggg tacctcccta ctcggttccg
+      481 gacgtgggta gcgatcgagg gatattatcg ggtggcatga ccgacagact gtccgaccgt
+      541 ccgaccgccg gaattatcgc cggaaaattt ttccggcgac ttttccggcg atcggttttg
+      601 tcgcagtttt tgagtttttt cagcagttct cggacaaaaa ttgctgtgtg gtcgcggaga
+      661 atgggcgtgt catgcgtggg atgacatgga ttcttcgagg ccttggggtg gcggtatatt
+      721 gggaaagcgc atkgtatacc gagatgtccc cacgggcatc gtttcacccc gtcgccgaag
+      781 agaatgggcg tgtcatgaca tgggctgaca tggattctcc taggccgtgg gtggcggtat
+      841 attcggaatg cgcccgaaat accgagatgt ccccatgggc atcgattcca cccgcctagg
+      901 ttggatggtc gtgcttcgtt ggaaagcatg gatccgccta ggctgtcccg agttgagcaa
+      961 ggtgtgagtg tcgcccatgg gcatcgacac cttgcggctt tgaactgaaa cggaggtacg
+     1021 cgcaggttgt tacgtcgtgc gggtttctcg gcgtcacatc cagtttacct tttgcggatg
+     1081 ttcttggcaa ccatcttttg atgggaagtg gatatcggct ggtagtgaca cgaggctccc
+     1141 ggttttgtgt gtatccttcg cactgcggct ccgatattcg cagcctaggt tggatgggcg
+     1201 tgcgaaagca tggatccgcc taggctgtct cgacggtttt tcgcgcttgt gcggctttgg
+     1261 cttggattcg tccgtcttct ctcttctcag ccgaatattt cggaggagtc ggggaacgat
+     1321 tgatgttttt gggtcaattg aacgttcggc gtatgagtgg tgatcggata gctagtgttt
+     1381 gtaggctccg tgctcgcgca cccaactact taccacctat ccttctcagt tacttcacgg
+     1441 gcgatgttac gctcgatgat cggatccggg gcctgtgttg cgtacctaac tagaaggtat
+     1501 tgttgagttt ggtttacacc tttgtccgcg gcatctcctt cgtggggaag tcgtgggcac
+     1561 aaaaatcggc ccttgtttac ctctcgacat tgcatttgtt gccttgttcg cattggtgaa
+     1621 taagttgccg gttgaaatct cggatgcgga aaagttgtag acggtgactc gaagtgattc
+     1681 agtcccgcca aagctcatcc gtccttcggg caaaagatga cagtcaaaac ctcgtccttt
+     1741 ctctctttcc tttgcgtttg cgagaatgtg tcggggaatt gctgtgatcg atgaatgcta
+     1801 cctggttgat cctgccagta gtcatatgct tgtctcaaag attaagccat gcatgtgtaa
+     1861 gtatgaacga attcagactg tgaaactgcg aatggctcat taaatcagtt atagtttgtt
+     1921 tgatggtaac tactactcgg ataaccgtag taattctaga gctaatacgt gcaacaaacc
+     1981 ccgacttctg gaaggggtgc atttattaga taaaaggtcg acgcgggctc tgcccgttgc
+     2041 tctgatgatt catgataact cgacggatcg catggccttt gtgctggcga cgcatcattc
+     2101 aaatttctgc cctatcaact ttcgatggta ggatagtggc ctaccatggt ggtaacgggt
+     2161 gacggagaat tagggttcga ttccggagag ggagcctgag aaacggctac cacatccaag
+     2221 gaaggcagca ggcgcgcaaa ttacccaatc ctgacacggg gaggtagtga caataaataa
+     2281 caataccggg ctcttttgag tctggtaatt ggaatgagta caatctaaat cccttaacga
+     2341 ggatccattg gagggcaagt ctggtgccag cagccgcggt aattccagct ccaatagcgt
+     2401 atatttaagt tgttgcagtt aaaaagctcg tagttgaacc ttgggatggg tcggccggtc
+     2461 cgcctttggt gtgcaccggt cggcttgtcc cttcggtcgg tgatacgctc ctggtcttaa
+     2521 ttggccgggt cgtgcctccg gcgctgttac tttgaagaaa ttagagtgct caaagcaagc
+     2581 ctacgctctg gatacattag catgggataa catcatagga tttcgatcct attgtgttgg
+     2641 ccttcgggat cggagtaatg attaacaggg acagtcgggg gcattcgtat ttcatagtca
+     2701 gaggtgaaat tcttggattt atgaaagacg aacaactgcg aaagcatttg ccaaggatgt
+     2761 tttcattaat caagaacgaa agttgggggc tcgaagacga tcagataccg tcctagtctc
+     2821 aaccataaac gatgccgacc agggatcagc ggatgttgct tataggactc cgctggcacc
+     2881 ttatgagaaa tcaaagtttt tgggttccgg ggggagtatg gtcgcaaggc tgaaacttaa
+     2941 aggaattgac ggaagggcac caccaggagt ggagcctgcg gcttaatttg actcaacacg
+     3001 gggaaactta ccaggtccag acatagtaag gattgacaga ctgagagctc tttcttgatt
+     3061 ctatgggtgg tggtgcatgg ccgttcttag ttggtggagc gatttgtctg gttaattccg
+     3121 ttaacgaacg agacctcagc ctgctaacta gctacgtgga ggcatccctt cacggccggc
+     3181 ttcttagagg gactatggcc gtttaggcca aggaagtttg aggcaataac aggtctgtga
+     3241 tgcccttaga tgttctgggc cgcacgcgcg ctacactgat gtattcaacg agttcacacc
+     3301 ttggccgaca ggcccgggta atctttgaaa tttcatcgtg atggggatag atcattgcaa
+     3361 ttgttggtct taaacgagga attcctagta agcgcgagtc atcagctcgc gttgactacg
+     3421 tccctgccct ttgtacacac cgcccgtcgc tcctaccgat tgaatgatcc ggtgaagtgt
+     3481 tcggatcgcg gcgacgtggg tggttcgccg cccgcgacgt cgcgagaagt ccactaaacc
+     3541 ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+     3601 tcattgtcga tacctgtcca aaacagaacg acccgcgaac caacgatcac cactctcggt
+     3661 gggccggttt cttaaccgat cccgtgctcg ccggatccgt ggtttcgcgt atcgccctgg
+     3721 tcgggagctt tatctcggtc ttgtcgtgcg cgttgcttcc ggatatcaca aaaccccggc
+     3781 acgaaaagtg tcaaggaaca agcaaacgaa cggctggcat tcgcctcccc ggagacggtg
+     3841 tgtgcgcgga tgctgtgctg cgatataaag tctaaaacga ctctcggcaa cggatatctc
+     3901 ggctctcgca tcgatgaaga acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc
+     3961 cgtgaaccat cgagtctttg aacgcaagtt gcgccccaag ccttctggcc gagggcacgt
+     4021 ctgcctgggt gtcacaaatc gtcgtccccc atattccttt gcggatgcgg gacggaagct
+     4081 ggtctcccgt gtgttaccgc acgcggttgg cctaaatccg agccaaggac gcctggagcg
+     4141 tcccgacatg cggtggtgaa catgatccat ttgatattgt cggtcgctcc tgtccggaag
+     4201 ctgtagatga cccaaagtcc tttaagcgac cccaggtcag gcgggattac ccgctgagtt
+     4261 taagcatatc aataagcgga ggaaaagaaa ctaacaagga ttcccttagt aacggcgagc
+     4321 gaaccgggaa gagcccagct tgaaaatcgg acgtcttcgg cgttcgaatt gtagtctgga
+     4381 gaagcgtcct cagcgacgga ccgggcctaa gttccctgga aaggggcgcc agagagggtg
+     4441 agagccccgt cgtgcccgga ccctgtcgca ccacgaggcg ctgtctacga gtcgggttgt
+     4501 ttgggaatgc agccccaatc gggcggtaaa ttccgtccaa ggctaaatac gggcgagaga
+     4561 ccgatagcga acaagtaccg cgaggtaaag atgaaaagga ctttgaaaag agagtcaaag
+     4621 agtgcttgaa attgtcggga gggaagcgga tgggggccgg cgatgcgtcc cggtcggatg
+     4681 cggaacggag caatccggtc cgccgatcga ttcggggcgt ggaccgacgc ggattacggc
+     4741 agcggcctaa gcccgggctt ttgatacgcc cgcggagacg tcgctgccgt gatcgtggtc
+     4801 tgcagcacgc gccttaacgg cgtgcctcgg catctgcgtg ctccgggcgt cggcctgtgg
+     4861 gctccccatt cgacccgtct tgaaacacgg accaaggagt ctgacatgtg tgcgagtcaa
+     4921 cgggtgagta aacccgtaag gcgcaaggaa gctgattggc gggatccctc gcgggtgcac
+     4981 cgccgaccga ccttgatctt ctgagaaggg ttcgagtgtg agcatgcctg tcgggacccg
+     5041 aaagatggtg aactatgcct gagcggggcg aagccagagg aaactctggt ggaggcccgc
+     5101 agcgatactg acgtgcaaat cgttcgtctg acttgggtat aggggcgaaa gactaatcga
+     5161 accatctagt agctggttcc ctccgaagtt tccctcagga tagctggagc tcggacgcga
+     5221 gttctatcgg gtaaagccaa tgattagagg cattgggggc gcaacgccct cgacctattc
+     5281 tcaaacttta aataggtagg acgtggcggc tgctttgttg agccgtcaca cggaatcgag
+     5341 agctccaagt gggccatttt tggtaagcag aactggcgat gcgggatgaa ccggaagccg
+     5401 ggttacggtg cccaactgcg cgctaaccta gaacccacaa agggtgttgg tcgattaaga
+     5461 cagcaggacg gtggtcatgg aagtcgaaat ccgctaagga gtgtgtaaca actcacctgc
+     5521 cgaatcaact agccccgaaa atggatggcg ctgaagcgcg cgacctatac ccggccgtcg
+     5581 gggcaagagc caggcctcga tgagtaggag ggcgcggcgg tcgctgtaaa acctagggcg
+     5641 cgagcccggg cggagcggcc gtcggtgcag atcttggtgg tagtagcaaa tattcaaatg
+     5701 agaactttga aggccgaaga ggggaaaggt tccatgtgaa cggcacttgc acatgggtta
+     5761 gtcgatccta agagtcgggg gaaacccgtc tgatagcgct taagcgcgaa cttcgaaagg
+     5821 ggatccggtt aaaattccgg aaccgggacg tggcggttga cggcaacgtt agggagtccg
+     5881 gagacgtcgg cgggggcctc gggaagagtt atcttttctg tttaacagcc tgcccaccct
+     5941 ggaaacggct cagccggagg tagggtccag cggctggaag agcaccgcac gtcgcgtggt
+     6001 gtccggtgcg cccccggcgg cccttgaaaa tccggaggac cgagtgccgc tcacgcccgg
+     6061 tcgtactcat aaccgcatca ggtctccaag gtgaacagcc tctggtcgat ggaacaatgt
+     6121 aggcaaggga agtcggcaaa atggatccgt aacttcggga aaaggattgg ctctgagggc
+     6181 tgggctcggg ggtcccagtt ccgaacccgt cggctgtcgg cggactgctc gagctgcttc
+     6241 cgcggcgaga gcgggtcgcc gcgtgccggc cgggggacgg actgggaact gctctctcgr
+     6301 gagctttccc cgggcgtcga acagtcagct cagaactggt acggacaagg ggaatccgac
+     6361 tgtttaatta aaacaaagca ttgcgatggt ccctgcggat gctaacgcaa tgtgatttct
+     6421 gcccagtgct ctgaatgtca aagtgaagaa attcaaccaa gcgcgggtaa acggcgggag
+     6481 taactatgac tctcttaagg tagccaaatg cctcgtcatc taattagtga cgcgcatgaa
+     6541 tggattaacg agattcccac tgtccctgtc tactatccag cgaaaccaca gccaagggaa
+     6601 cgggcttggc agaatcagcg gggaaagaag accctgttga gcttgactct agtccgactt
+     6661 tgtgaaatga cttgagaggt gtaggataag tgggagcttc ggcgcaagtg aaataccact
+     6721 acttttaacg ttattttact tactccgtga gtcggaggcg gggtacaacc cctgtttttg
+     6781 gacccaaggc tcgcttcggc gggtcgatcc gggcggagga cattgtcagg tggggagttt
+     6841 ggctggggcg gcacatctgt taaaagataa cgcaggtgtc ctaagatgag ctcaacgaga
+     6901 acagaaatct cgtgtggaac aaaagggtaa aagctcgttt gattctgatt ttcagtacga
+     6961 atacgaaccg tgaaagcgtg gcctatcgat cctttagacc ttcggaattt gaagctagag
+     7021 gtgtcagaaa agttaccaca gggataactg gcttgtggca gccaagcgtt catagcgacg
+     7081 ttgctttttg atccttcgat gtcggctctt cctatcattg tgaagcagaa ttcaccaagt
+     7141 gttggattgt tcacccacca atagggaacg tgagctgggt ttagaccgtc gtgagacagg
+     7201 ttagttttac cctactgatg cccgcgtcgc gatagtaatt caacctagta cgagaggaac
+     7261 cgttgattcg cacaattggt catcgcgctt ggttgaaaag ccagtggcgc gaagctaccg
+     7321 tgcgctggat tatgactgaa cgcctctaag tcagaatccg ggctagaagc gacgcatgcg
+     7381 cccgccgccc gattgccgac cctcagtagg agcttcggct cccaaaggca cgtgtcgttg
+     7441 gctaagtccg ttcggcggaa gcgtcgttcg gaccgccttg aattataatt accaccgagc
+     7501 ggcgggtaga atcctttgca gacgacttaa atacgcgacg gggtattgta agtggcagag
+     7561 tggccttgct gccacgatcc actgagattc agccctttgt cgctaagatt cgaccctccc
+     7621 caaagtccct ccaaaacaat atccaatttt acacaagtgt ttaacactag caaaacaaga
+     7681 gctcccaaaa aaattctcaa gtttaaacac gagttcgtcc cgcgaggttc aatattatca
+     7741 cttggtagta taaatatatc gccaagtgat ttgaaaaccc caaacgctca caaaagtgcc
+     7801 tagtgggaag actaagtcaa gaagaacact tggaaaaaaa agatacacgg acttgtcaaa
+     7861 aatgaaacat aagagaatgc ttggctaaat acttggtgtg aggtagtgct caagctcaca
+     7921 ccgccaagct gtaagaaagc gtctccagca cctatccgga cgatgaaagt ccgaggaaat
+     7981 gaaaactggt ccgagaaatc gtcgatcagt acgagggaag catcgccagc acctatccgg
+     8041 acgatgaaag tccgagcaaa tgaaaactgg tccgagatca gtacgaggaa agcatctcca
+     8101 gcacctatcc ggacgatgaa agtccgagga aatgaaaact ggtacgagaa atcgtcgatc
+     8161 agtacgagca atcgtcaacc agcacctatc cggacgatga aagtccga
+//

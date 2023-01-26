@@ -1,0 +1,159 @@
+/cluster/software/QUAST/5.0.2-foss-2018b-Python-2.7.15/bin/quast.py --large -t 8 --est-ref-size 179629584 01_falcon_p_ctg_groups_10_purge_dups_purged.fasta 01_falcon_p_ctg_groups_11_purge_dups_purged.fasta 01_falcon_p_ctg_groups_12_purge_dups_purged.fasta 01_falcon_p_ctg_groups_13_purge_dups_purged.fasta 01_falcon_p_ctg_salsa_purge_dups_purged.fasta 02_falcon_p_h_ctg_groups_10_purge_dups_purged.fasta 02_falcon_p_h_ctg_groups_11_purge_dups_purged.fasta 02_falcon_p_h_ctg_groups_12_purge_dups_purged.fasta 02_falcon_p_h_ctg_groups_13_purge_dups_purged.fasta 02_falcon_p_h_ctg_salsa_purge_dups_purged.fasta 11_arenosa_pilon12_groups_10_purge_dups_purged.fasta 11_arenosa_pilon12_groups_11_purge_dups_purged.fasta 11_arenosa_pilon12_groups_12_purge_dups_purged.fasta 11_arenosa_pilon12_groups_13_purge_dups_purged.fasta 11_arenosa_pilon12_salsa_purge_dups_purged.fasta 12_arenosa_purged_sr_groups_10_purge_dups_purged.fasta 12_arenosa_purged_sr_groups_11_purge_dups_purged.fasta 12_arenosa_purged_sr_groups_12_purge_dups_purged.fasta 12_arenosa_purged_sr_groups_13_purge_dups_purged.fasta 12_arenosa_purged_sr_salsa_purge_dups_purged.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-957.12.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core (linux_64)
+  Python version: 2.7.15
+  CPUs number: 80
+
+Started: 2020-11-11 06:53:39
+
+Logging to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/quast.log
+
+CWD: /cluster/work/users/jonathbr/compare_hic/allhic
+Main parameters: 
+  MODE: large, threads: 8, eukaryotic: true, minimum contig length: 3000, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Contigs:
+  Pre-processing...
+  1  01_falcon_p_ctg_groups_10_purge_dups_purged.fasta ==> 01_falcon_p_ctg_groups_10_purge_dups_purged
+  2  01_falcon_p_ctg_groups_11_purge_dups_purged.fasta ==> 01_falcon_p_ctg_groups_11_purge_dups_purged
+  3  01_falcon_p_ctg_groups_12_purge_dups_purged.fasta ==> 01_falcon_p_ctg_groups_12_purge_dups_purged
+  4  01_falcon_p_ctg_groups_13_purge_dups_purged.fasta ==> 01_falcon_p_ctg_groups_13_purge_dups_purged
+  5  01_falcon_p_ctg_salsa_purge_dups_purged.fasta ==> 01_falcon_p_ctg_salsa_purge_dups_purged
+  6  02_falcon_p_h_ctg_groups_10_purge_dups_purged.fasta ==> 02_falcon_p_h_ctg_groups_10_purge_dups_purged
+  7  02_falcon_p_h_ctg_groups_11_purge_dups_purged.fasta ==> 02_falcon_p_h_ctg_groups_11_purge_dups_purged
+  8  02_falcon_p_h_ctg_groups_12_purge_dups_purged.fasta ==> 02_falcon_p_h_ctg_groups_12_purge_dups_purged
+  9  02_falcon_p_h_ctg_groups_13_purge_dups_purged.fasta ==> 02_falcon_p_h_ctg_groups_13_purge_dups_purged
+  10 02_falcon_p_h_ctg_salsa_purge_dups_purged.fasta ==> 02_falcon_p_h_ctg_salsa_purge_dups_purged
+  11 11_arenosa_pilon12_groups_10_purge_dups_purged.fasta ==> 11_arenosa_pilon12_groups_10_purge_dups_purged
+  12 11_arenosa_pilon12_groups_11_purge_dups_purged.fasta ==> 11_arenosa_pilon12_groups_11_purge_dups_purged
+  13 11_arenosa_pilon12_groups_12_purge_dups_purged.fasta ==> 11_arenosa_pilon12_groups_12_purge_dups_purged
+  14 11_arenosa_pilon12_groups_13_purge_dups_purged.fasta ==> 11_arenosa_pilon12_groups_13_purge_dups_purged
+  15 11_arenosa_pilon12_salsa_purge_dups_purged.fasta ==> 11_arenosa_pilon12_salsa_purge_dups_purged
+  16 12_arenosa_purged_sr_groups_10_purge_dups_purged.fasta ==> 12_arenosa_purged_sr_groups_10_purge_dups_purged
+  17 12_arenosa_purged_sr_groups_11_purge_dups_purged.fasta ==> 12_arenosa_purged_sr_groups_11_purge_dups_purged
+  18 12_arenosa_purged_sr_groups_12_purge_dups_purged.fasta ==> 12_arenosa_purged_sr_groups_12_purge_dups_purged
+  19 12_arenosa_purged_sr_groups_13_purge_dups_purged.fasta ==> 12_arenosa_purged_sr_groups_13_purge_dups_purged
+  20 12_arenosa_purged_sr_salsa_purge_dups_purged.fasta ==> 12_arenosa_purged_sr_salsa_purge_dups_purged
+
+2020-11-11 06:54:05
+Running Basic statistics processor...
+  Estimated reference length = 179629584
+  Contig files: 
+    1  01_falcon_p_ctg_groups_10_purge_dups_purged
+    2  01_falcon_p_ctg_groups_11_purge_dups_purged
+    3  01_falcon_p_ctg_groups_12_purge_dups_purged
+    4  01_falcon_p_ctg_groups_13_purge_dups_purged
+    5  01_falcon_p_ctg_salsa_purge_dups_purged
+    6  02_falcon_p_h_ctg_groups_10_purge_dups_purged
+    7  02_falcon_p_h_ctg_groups_11_purge_dups_purged
+    8  02_falcon_p_h_ctg_groups_12_purge_dups_purged
+    9  02_falcon_p_h_ctg_groups_13_purge_dups_purged
+    10 02_falcon_p_h_ctg_salsa_purge_dups_purged
+    11 11_arenosa_pilon12_groups_10_purge_dups_purged
+    12 11_arenosa_pilon12_groups_11_purge_dups_purged
+    13 11_arenosa_pilon12_groups_12_purge_dups_purged
+    14 11_arenosa_pilon12_groups_13_purge_dups_purged
+    15 11_arenosa_pilon12_salsa_purge_dups_purged
+    16 12_arenosa_purged_sr_groups_10_purge_dups_purged
+    17 12_arenosa_purged_sr_groups_11_purge_dups_purged
+    18 12_arenosa_purged_sr_groups_12_purge_dups_purged
+    19 12_arenosa_purged_sr_groups_13_purge_dups_purged
+    20 12_arenosa_purged_sr_salsa_purge_dups_purged
+  Calculating N50 and L50...
+    1  01_falcon_p_ctg_groups_10_purge_dups_purged, N50 = 20836640, L50 = 3, Total length = 151489568, GC % = 35.75, # N's per 100 kbp =  21.66
+    2  01_falcon_p_ctg_groups_11_purge_dups_purged, N50 = 19882372, L50 = 4, Total length = 150149377, GC % = 35.77, # N's per 100 kbp =  20.80
+    3  01_falcon_p_ctg_groups_12_purge_dups_purged, N50 = 20507676, L50 = 4, Total length = 152091173, GC % = 35.74, # N's per 100 kbp =  21.24
+    4  01_falcon_p_ctg_groups_13_purge_dups_purged, N50 = 19007577, L50 = 4, Total length = 150732824, GC % = 35.75, # N's per 100 kbp =  21.69
+    5  01_falcon_p_ctg_salsa_purge_dups_purged, N50 = 7569012, L50 = 7, Total length = 150203787, GC % = 35.74, # N's per 100 kbp =  36.65
+    6  02_falcon_p_h_ctg_groups_10_purge_dups_purged, N50 = 19079297, L50 = 4, Total length = 152363329, GC % = 35.73, # N's per 100 kbp =  19.60
+    7  02_falcon_p_h_ctg_groups_11_purge_dups_purged, N50 = 19135958, L50 = 4, Total length = 152357714, GC % = 35.73, # N's per 100 kbp =  20.26
+    8  02_falcon_p_h_ctg_groups_12_purge_dups_purged, N50 = 18501920, L50 = 4, Total length = 152200355, GC % = 35.74, # N's per 100 kbp =  20.16
+    9  02_falcon_p_h_ctg_groups_13_purge_dups_purged, N50 = 17052205, L50 = 5, Total length = 151770198, GC % = 35.74, # N's per 100 kbp =  18.75
+    10 02_falcon_p_h_ctg_salsa_purge_dups_purged, N50 = 11799631, L50 = 4, Total length = 152072172, GC % = 35.72, # N's per 100 kbp =  16.47
+    11 11_arenosa_pilon12_groups_10_purge_dups_purged, N50 = 15636002, L50 = 5, Total length = 155415254, GC % = 36.01, # N's per 100 kbp =  22.02
+    12 11_arenosa_pilon12_groups_11_purge_dups_purged, N50 = 11809035, L50 = 6, Total length = 155410865, GC % = 36.01, # N's per 100 kbp =  20.94
+    13 11_arenosa_pilon12_groups_12_purge_dups_purged, N50 = 11809035, L50 = 6, Total length = 155545777, GC % = 36.01, # N's per 100 kbp =  21.22
+    14 11_arenosa_pilon12_groups_13_purge_dups_purged, N50 = 14677658, L50 = 5, Total length = 155360227, GC % = 36.01, # N's per 100 kbp =  20.21
+    15 11_arenosa_pilon12_salsa_purge_dups_purged, N50 = 6437828, L50 = 6, Total length = 156179120, GC % = 36.02, # N's per 100 kbp =  17.13
+    16 12_arenosa_purged_sr_groups_10_purge_dups_purged, N50 = 17384160, L50 = 4, Total length = 149079103, GC % = 35.81, # N's per 100 kbp =  9.35
+    17 12_arenosa_purged_sr_groups_11_purge_dups_purged, N50 = 17384180, L50 = 4, Total length = 149194888, GC % = 35.81, # N's per 100 kbp =  9.83
+    18 12_arenosa_purged_sr_groups_12_purge_dups_purged, N50 = 17383534, L50 = 4, Total length = 149130710, GC % = 35.81, # N's per 100 kbp =  10.19
+    19 12_arenosa_purged_sr_groups_13_purge_dups_purged, N50 = 17374279, L50 = 4, Total length = 149098440, GC % = 35.81, # N's per 100 kbp =  9.27
+    20 12_arenosa_purged_sr_salsa_purge_dups_purged, N50 = 13300974, L50 = 3, Total length = 149002257, GC % = 35.81, # N's per 100 kbp =  21.09
+  Drawing Nx plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_groups_10_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/01_falcon_p_ctg_groups_10_purge_dups_purged_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_groups_11_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/01_falcon_p_ctg_groups_11_purge_dups_purged_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_groups_12_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/01_falcon_p_ctg_groups_12_purge_dups_purged_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_groups_13_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/01_falcon_p_ctg_groups_13_purge_dups_purged_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_salsa_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/01_falcon_p_ctg_salsa_purge_dups_purged_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_groups_10_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/02_falcon_p_h_ctg_groups_10_purge_dups_purged_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_groups_11_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/02_falcon_p_h_ctg_groups_11_purge_dups_purged_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_groups_12_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/02_falcon_p_h_ctg_groups_12_purge_dups_purged_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_groups_13_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/02_falcon_p_h_ctg_groups_13_purge_dups_purged_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_salsa_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/02_falcon_p_h_ctg_salsa_purge_dups_purged_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_groups_10_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/11_arenosa_pilon12_groups_10_purge_dups_purged_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_groups_11_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/11_arenosa_pilon12_groups_11_purge_dups_purged_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_groups_12_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/11_arenosa_pilon12_groups_12_purge_dups_purged_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_groups_13_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/11_arenosa_pilon12_groups_13_purge_dups_purged_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_salsa_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/11_arenosa_pilon12_salsa_purge_dups_purged_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_groups_10_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/12_arenosa_purged_sr_groups_10_purge_dups_purged_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_groups_11_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/12_arenosa_purged_sr_groups_11_purge_dups_purged_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_groups_12_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/12_arenosa_purged_sr_groups_12_purge_dups_purged_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_groups_13_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/12_arenosa_purged_sr_groups_13_purge_dups_purged_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_salsa_purge_dups_purged GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/basic_stats/12_arenosa_purged_sr_salsa_purge_dups_purged_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-11-11 06:57:19
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-11-11 06:58:10
+RESULTS:
+  Text versions of total report are saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/report.html
+  PDF version (tables and plots) is saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/report.pdf
+  Icarus (contig browser) is saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/icarus.html
+  Log is saved to /cluster/work/users/jonathbr/compare_hic/allhic/quast_results/results_2020_11_11_06_53_38/quast.log
+
+Finished: 2020-11-11 06:58:10
+Elapsed time: 0:04:30.874498
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

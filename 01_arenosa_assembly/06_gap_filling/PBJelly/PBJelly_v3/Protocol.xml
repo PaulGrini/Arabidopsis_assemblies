@@ -1,0 +1,29 @@
+<jellyProtocol>
+    <reference>/cluster/work/users/jonathbr/arenosa_assembly/06_gap_filling/PBJelly_v3/arenosa.fasta</reference>
+    <outputDir>/cluster/work/users/jonathbr/arenosa_assembly/06_gap_filling/PBJelly_v3/jellyout/</outputDir>
+    <blasr>--minMatch 8 --sdpTupleSize 8 --minPctSimilarity 75 --bestn 1 --nCandidates 10 --maxScore -500 --noSplitSubreads</blasr>
+    <input baseDir="/cluster/work/users/jonathbr/arenosa_assembly/06_gap_filling/PBJelly_v3/">
+        <job>pbReads.split.aa.fasta</job>
+                <job>pbReads.split.ab.fasta</job>
+                <job>pbReads.split.ac.fasta</job>
+                <job>pbReads.split.ad.fasta</job>
+                <job>pbReads.split.ae.fasta</job>
+                <job>pbReads.split.af.fasta</job>
+                <job>pbReads.split.ag.fasta</job>
+                <job>pbReads.split.ah.fasta</job>
+                <job>pbReads.split.ai.fasta</job>
+                <job>pbReads.split.aj.fasta</job>
+                <job>pbReads.split.ak.fasta</job>
+                <job>pbReads.split.al.fasta</job>
+                <job>pbReads.split.am.fasta</job>
+                <job>pbReads.split.an.fasta</job>
+                <job>pbReads.split.ao.fasta</job>
+                <job>pbReads.split.ap.fasta</job>
+                <job>pbReads.split.aq.fasta</job>
+                <job>pbReads.split.ar.fasta</job>
+                <job>pbReads.split.as.fasta</job>
+                <job>pbReads.split.at.fasta</job>
+                <job>pbReads.split.au.fasta</job>
+                <job>pbReads.split.av.fasta</job>
+    </input>
+</jellyProtocol>

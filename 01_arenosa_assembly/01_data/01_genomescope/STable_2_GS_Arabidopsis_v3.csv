@@ -1,0 +1,22 @@
+Genus,Species,Subspecies,karyotype,DNA Amount 1C (pg),Plant/Source,DNA Amount 1C (Mbp),Method
+Arabidopsis,thaliana,,10,0.16,"Johnston et al.,2005",156.5,Flow cytometry
+Arabidopsis,arenosa,,16,0.2,"Lysák et al.,2009",195.6,Flow cytometry
+Arabidopsis,arenosa,,32,0.39,"Lysák et al.,2009",381.4,Flow cytometry
+Arabidopsis,arenosa,,16,0.15,2Az2_1,146.2,Flow cytometry
+Arabidopsis,arenosa,,16,0.15,2Az3_1,144.1,Flow cytometry
+Arabidopsis,arenosa,,16,0.18,2Az1-9,179.2,K-mer based estimation
+Arabidopsis,arenosa,,32,0.32,4Az1_1,313.6,Flow cytometry
+Arabidopsis,arenosa,,32,0.32,4Az1_2,309.1,Flow cytometry
+Arabidopsis,arenosa,,32,0.32,4Az1_3,312.2,Flow cytometry
+Arabidopsis,arenosa,,32,0.32,4Az2_1,315.1,Flow cytometry
+Arabidopsis,arenosa,,32,0.32,4Az2_2,313.2,Flow cytometry
+Arabidopsis,lyrata ,lyrata,16,0.25,"Lysák et al.,2009",244.5,Flow cytometry
+Arabidopsis,lyrata ,petraea,32,0.45,"Dart et al.,2004",440.1,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.17,2Lz1_1,165.8,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.17,2Lz3_1,170.1,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.17,2Lz3_2,166.2,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.17,2Lz3_3,165.8,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.17,2Lz3_4,167.0,Flow cytometry
+Arabidopsis,lyrata,petraea,16,0.21,2Lz3-4,201.1,K-mer based estimation
+Arabidopsis,lyrata,petraea,32,0.32,4Lz2_1,313.0,Flow cytometry
+Arabidopsis,lyrata,petraea,32,0.32,4Lz2_2,311.8,Flow cytometry

@@ -1,0 +1,124 @@
+/cluster/software/QUAST/5.0.2-foss-2018b-Python-2.7.15/bin/quast.py --large -t 8 --est-ref-size 179629584 assemblies/01_falcon_p_ctg.fasta assemblies/02_falcon_p_h_ctg.fasta assemblies/11_arenosa_pilon12.fasta assemblies/12_arenosa_purged_sr.fasta scaffolds/01_falcon_p_ctg_salsa_filtered.fasta scaffolds/02_falcon_p_h_ctg_salsa_filtered.fasta scaffolds/11_arenosa_pilon12_salsa_filtered.fasta scaffolds/12_arenosa_purged_sr_salsa.fasta scaffolds_purged/01_falcon_p_ctg_final.fasta scaffolds_purged/02_falcon_p_h_ctg_final.fasta scaffolds_purged/11_arenosa_pilon12_final.fasta scaffolds_purged/12_arenosa_purged_sr_final.fasta scaffolds_purged/arenosa_jelly.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-957.12.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core (linux_64)
+  Python version: 2.7.15
+  CPUs number: 80
+
+Started: 2020-11-09 15:24:05
+
+Logging to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/quast.log
+
+CWD: /cluster/work/users/jonathbr/compare_hic/assessment
+Main parameters: 
+  MODE: large, threads: 8, eukaryotic: true, minimum contig length: 3000, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Contigs:
+  Pre-processing...
+  1  assemblies/01_falcon_p_ctg.fasta ==> 01_falcon_p_ctg
+  2  assemblies/02_falcon_p_h_ctg.fasta ==> 02_falcon_p_h_ctg
+  3  assemblies/11_arenosa_pilon12.fasta ==> 11_arenosa_pilon12
+  4  assemblies/12_arenosa_purged_sr.fasta ==> 12_arenosa_purged_sr
+  5  scaffolds/01_falcon_p_ctg_salsa_filtered.fasta ==> 01_falcon_p_ctg_salsa_filtered
+  6  scaffolds/02_falcon_p_h_ctg_salsa_filtered.fasta ==> 02_falcon_p_h_ctg_salsa_filtered
+  7  scaffolds/11_arenosa_pilon12_salsa_filtered.fasta ==> 11_arenosa_pilon12_salsa_filtered
+  8  scaffolds/12_arenosa_purged_sr_salsa.fasta ==> 12_arenosa_purged_sr_salsa
+  9  scaffolds_purged/01_falcon_p_ctg_final.fasta ==> 01_falcon_p_ctg_final
+  10 scaffolds_purged/02_falcon_p_h_ctg_final.fasta ==> 02_falcon_p_h_ctg_final
+  11 scaffolds_purged/11_arenosa_pilon12_final.fasta ==> 11_arenosa_pilon12_final
+  12 scaffolds_purged/12_arenosa_purged_sr_final.fasta ==> 12_arenosa_purged_sr_final
+  13 scaffolds_purged/arenosa_jelly.fasta ==> arenosa_jelly
+
+2020-11-09 15:24:37
+Running Basic statistics processor...
+  Estimated reference length = 179629584
+  Contig files: 
+    1  01_falcon_p_ctg
+    2  02_falcon_p_h_ctg
+    3  11_arenosa_pilon12
+    4  12_arenosa_purged_sr
+    5  01_falcon_p_ctg_salsa_filtered
+    6  02_falcon_p_h_ctg_salsa_filtered
+    7  11_arenosa_pilon12_salsa_filtered
+    8  12_arenosa_purged_sr_salsa
+    9  01_falcon_p_ctg_final
+    10 02_falcon_p_h_ctg_final
+    11 11_arenosa_pilon12_final
+    12 12_arenosa_purged_sr_final
+    13 arenosa_jelly
+  Calculating N50 and L50...
+    1  01_falcon_p_ctg, N50 = 4319429, L50 = 16, Total length = 225778782, GC % = 35.88, # N's per 100 kbp =  0.00
+    2  02_falcon_p_h_ctg, N50 = 3810243, L50 = 19, Total length = 249504600, GC % = 35.79, # N's per 100 kbp =  0.00
+    3  11_arenosa_pilon12, N50 = 2746767, L50 = 23, Total length = 255311568, GC % = 36.00, # N's per 100 kbp =  0.00
+    4  12_arenosa_purged_sr, N50 = 4790183, L50 = 10, Total length = 151675319, GC % = 35.89, # N's per 100 kbp =  0.36
+    5  01_falcon_p_ctg_salsa_filtered, N50 = 7560789, L50 = 9, Total length = 225856282, GC % = 35.88, # N's per 100 kbp =  34.31
+    6  02_falcon_p_h_ctg_salsa_filtered, N50 = 11717667, L50 = 6, Total length = 249545600, GC % = 35.79, # N's per 100 kbp =  16.43
+    7  11_arenosa_pilon12_salsa_filtered, N50 = 6772155, L50 = 8, Total length = 255360568, GC % = 36.00, # N's per 100 kbp =  19.19
+    8  12_arenosa_purged_sr_salsa, N50 = 13302634, L50 = 3, Total length = 151709819, GC % = 35.89, # N's per 100 kbp =  23.10
+    9  01_falcon_p_ctg_final, N50 = 8919586, L50 = 7, Total length = 189894782, GC % = 35.81, # N's per 100 kbp =  32.78
+    10 02_falcon_p_h_ctg_final, N50 = 16775319, L50 = 3, Total length = 162896298, GC % = 35.76, # N's per 100 kbp =  14.90
+    11 11_arenosa_pilon12_final, N50 = 14664562, L50 = 4, Total length = 183419991, GC % = 36.01, # N's per 100 kbp =  16.51
+    12 12_arenosa_purged_sr_final, N50 = 13300974, L50 = 3, Total length = 150573280, GC % = 35.85, # N's per 100 kbp =  21.88
+    13 arenosa_jelly, N50 = 18637516, L50 = 4, Total length = 154239195, GC % = 35.92, # N's per 100 kbp =  8.04
+  Drawing Nx plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/01_falcon_p_ctg_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/02_falcon_p_h_ctg_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12 GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/11_arenosa_pilon12_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/12_arenosa_purged_sr_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_salsa_filtered GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/01_falcon_p_ctg_salsa_filtered_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_salsa_filtered GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/02_falcon_p_h_ctg_salsa_filtered_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_salsa_filtered GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/11_arenosa_pilon12_salsa_filtered_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_salsa GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/12_arenosa_purged_sr_salsa_GC_content_plot.pdf
+  Drawing 01_falcon_p_ctg_final GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/01_falcon_p_ctg_final_GC_content_plot.pdf
+  Drawing 02_falcon_p_h_ctg_final GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/02_falcon_p_h_ctg_final_GC_content_plot.pdf
+  Drawing 11_arenosa_pilon12_final GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/11_arenosa_pilon12_final_GC_content_plot.pdf
+  Drawing 12_arenosa_purged_sr_final GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/12_arenosa_purged_sr_final_GC_content_plot.pdf
+  Drawing arenosa_jelly GC content plot...
+    saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/basic_stats/arenosa_jelly_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-11-09 15:27:24
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-11-09 15:28:32
+RESULTS:
+  Text versions of total report are saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/report.html
+  PDF version (tables and plots) is saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/report.pdf
+  Icarus (contig browser) is saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/icarus.html
+  Log is saved to /cluster/work/users/jonathbr/compare_hic/assessment/quast_results/results_2020_11_09_15_24_05/quast.log
+
+Finished: 2020-11-09 15:28:34
+Elapsed time: 0:04:29.351741
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
