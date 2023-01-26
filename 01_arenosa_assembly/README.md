@@ -4,4 +4,4 @@ The de novo assembled <i> A. arenosa </i> genome. The genome was sequenced and a
 ### Content 
 - The full genome is in the file [Arabidopsis_arenosa_genome.fna.gz](Arabidopsis_arenosa_genome.fna.gz)
 - The genome with repeats softmasked according to RepeatMasker is in the file  [Arabidopsis_arenosa_genome.softmasked.fna.gz](Arabidopsis_arenosa_genome.softmasked.fna.gz)
-- The genome annotation in gtf format with the predicted genes from braker2 is in the file [Arabidopsis_arenosa_genome.softmasked.fna.gz](Arabidopsis_arenosa_genome.softmasked.fna.gz).
+- The genome annotation in gtf format with the predicted genes from braker2 is in the file [Arabidopsis_arenosa_genome.annotation.gtf.gz](Arabidopsis_arenosa_genome.annotation.gtf.gz).
