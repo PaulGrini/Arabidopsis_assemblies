@@ -1,0 +1,8 @@
+<jellyProtocol>
+    <reference>/cluster/work/users/jonathbr/PBJelly3/petrea_canu_pilon9_purged_ragoo.fasta</reference>
+    <outputDir>/cluster/work/users/jonathbr/PBJelly3/jelly_out/</outputDir>
+    <blasr>--minMatch 8 --sdpTupleSize 8 --minPctSimilarity 75 --bestn 1 --nCandidates 10 --maxScore -500 --nproc 40 --noSplitSubreads</blasr>
+    <input baseDir="/cluster/work/users/jonathbr/PBJelly3/reads/">
+        <job>lyrata.correctedReads.fasta</job>
+    </input>
+</jellyProtocol>
