@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /cluster/projects/nn9525k/Programs/conda_envs/busco_env/bin/run_BUSCO.py -i /cluster/work/users/jonathbr/arenosa_published_assessment/assemblies/AARE701a.fasta -o AARE701a -l /cluster/projects/nn9525k/databases/odb9/embryophyta_odb9/ -m genome -c 8 -sp arabidopsis
+#
+# Summarized benchmarking in BUSCO notation for file /cluster/work/users/jonathbr/arenosa_published_assessment/assemblies/AARE701a.fasta
+# BUSCO was run in mode: genome
+
+	C:98.1%[S:96.4%,D:1.7%],F:0.4%,M:1.5%,n:1440
+
+	1413	Complete BUSCOs (C)
+	1388	Complete and single-copy BUSCOs (S)
+	25	Complete and duplicated BUSCOs (D)
+	6	Fragmented BUSCOs (F)
+	21	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched

@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /cluster/projects/nn9525k/Programs/conda_envs/busco_env/bin/run_BUSCO.py -i /cluster/work/users/jonathbr/arenosa_published_assessment/assemblies/tetraploid.fasta -o tetraploid -l /cluster/projects/nn9525k/databases/odb9/embryophyta_odb9/ -m genome -c 8 -sp arabidopsis
+#
+# Summarized benchmarking in BUSCO notation for file /cluster/work/users/jonathbr/arenosa_published_assessment/assemblies/tetraploid.fasta
+# BUSCO was run in mode: genome
+
+	C:56.4%[S:47.4%,D:9.0%],F:17.1%,M:26.5%,n:1440
+
+	811	Complete BUSCOs (C)
+	682	Complete and single-copy BUSCOs (S)
+	129	Complete and duplicated BUSCOs (D)
+	246	Fragmented BUSCOs (F)
+	383	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched

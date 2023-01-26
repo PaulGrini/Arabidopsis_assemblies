@@ -1,0 +1,94 @@
+/cluster/software/QUAST/5.0.2-foss-2018b-Python-2.7.15/bin/quast.py --large -t 8 --est-ref-size 179629584 assemblies/AA4.fasta assemblies/AARE701a.fasta assemblies/arenosa_canu.fasta assemblies/arenosa_ordered.fasta assemblies/diploid.fasta assemblies/tetraploid.fasta reference/Alyrata_384_v1.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.6.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 2.7.15
+  CPUs number: 80
+
+Started: 2022-04-24 16:36:21
+
+Logging to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/quast.log
+
+CWD: /cluster/work/users/jonathbr/arenosa_published_assessment
+Main parameters: 
+  MODE: large, threads: 8, eukaryotic: true, minimum contig length: 3000, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Contigs:
+  Pre-processing...
+  1  assemblies/AA4.fasta ==> AA4
+  2  assemblies/AARE701a.fasta ==> AARE701a
+  3  assemblies/arenosa_canu.fasta ==> arenosa_canu
+  4  assemblies/arenosa_ordered.fasta ==> arenosa_ordered
+  5  assemblies/diploid.fasta ==> diploid
+  6  assemblies/tetraploid.fasta ==> tetraploid
+  7  reference/Alyrata_384_v1.fasta ==> Alyrata_384_v1
+
+2022-04-24 16:37:37
+Running Basic statistics processor...
+  Estimated reference length = 179629584
+  Contig files: 
+    1  AA4
+    2  AARE701a
+    3  arenosa_canu
+    4  arenosa_ordered
+    5  diploid
+    6  tetraploid
+    7  Alyrata_384_v1
+  Calculating N50 and L50...
+    1  AA4, N50 = 331410, L50 = 371, Total length = 460947501, GC % = 36.10, # N's per 100 kbp =  0.00
+    2  AARE701a, N50 = 19161110, L50 = 4, Total length = 149659193, GC % = 35.58, # N's per 100 kbp =  2659.38
+    3  arenosa_canu, N50 = 2745836, L50 = 23, Total length = 255974246, GC % = 36.03, # N's per 100 kbp =  0.00
+    4  arenosa_ordered, N50 = 19156880, L50 = 4, Total length = 152750645, GC % = 35.91, # N's per 100 kbp =  9.95
+    5  diploid, N50 = 1390259, L50 = 25, Total length = 156821447, GC % = 35.65, # N's per 100 kbp =  4464.92
+    6  tetraploid, N50 = 6528, L50 = 2682, Total length = 88862969, GC % = 35.43, # N's per 100 kbp =  5615.56
+    7  Alyrata_384_v1, N50 = 24464547, L50 = 4, Total length = 206638382, GC % = 36.09, # N's per 100 kbp =  11077.21
+  Drawing Nx plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/GC_content_plot.pdf
+  Drawing AA4 GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/AA4_GC_content_plot.pdf
+  Drawing AARE701a GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/AARE701a_GC_content_plot.pdf
+  Drawing arenosa_canu GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/arenosa_canu_GC_content_plot.pdf
+  Drawing arenosa_ordered GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/arenosa_ordered_GC_content_plot.pdf
+  Drawing diploid GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/diploid_GC_content_plot.pdf
+  Drawing tetraploid GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/tetraploid_GC_content_plot.pdf
+  Drawing Alyrata_384_v1 GC content plot...
+    saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/basic_stats/Alyrata_384_v1_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-04-24 16:41:21
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2022-04-24 16:43:01
+RESULTS:
+  Text versions of total report are saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/report.html
+  PDF version (tables and plots) is saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/report.pdf
+  Icarus (contig browser) is saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/icarus.html
+  Log is saved to /cluster/work/users/jonathbr/arenosa_published_assessment/quast_results/results_2022_04_24_16_36_21/quast.log
+
+Finished: 2022-04-24 16:43:02
+Elapsed time: 0:06:40.587157
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
