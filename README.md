@@ -11,7 +11,7 @@ The assembly pipeline with scripts and additional information can be found  [her
 If you are only interested in the genome and the predicted genes you can download them directly:
 - The full genome: [Arabidopsis_arenosa_genome.fna.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.fna.gz)
 - The genome with repeats softmasked according to RepeatMasker: [Arabidopsis_arenosa_genome.softmasked.fna.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.softmasked.fna.gz)
-- The genome annotation in gtf format with the predicted genes from braker2 [Arabidopsis_arenosa_genome.softmasked.fna.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.softmasked.fna.gz).
+- The genome annotation in gtf format with the predicted genes from braker2 [Arabidopsis_arenosa_genome.annotation.gtf.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.annotation.gtf.gz).
 
 ## 2. <i>Arabidopsis lyrata</i> 
 The assembly pipeline with scripts and additional information can be found  [here (under construction)](02_lyrata_assembly/)
