@@ -1,0 +1,842 @@
+treeorder;clade;species;phy_name;genome_name;gene_id;AGL;aliases;name
+841;MIKC-38;Capsella_rubella;Capsella_rubella_XP_006306362.2;NA;Cru__XP_006306362.2;NA;NA;NA
+840;MIKC-38;Capsella_grandiflora;Capsella_grandiflora_Cagra.1508s0081.1.p;NA;Cgr__Cagra.1508s0081.1.p;NA;NA;NA
+839;MIKC-38;A.thaliana;Athaliana_At1g31140_AGL63_MIKC;NA;Ath__AT1G31140;AGL63;AGL63, GOA;GORDITA
+838;MIKC-38;A.arenosa_strecno;A.arenosa_strecno_g11680.t1;NA;Adi__jg11680;NA;NA;NA
+837;MIKC-38;A.halleri_halleri;A.halleri_halleri_g5402;NA;Aha__jg5402;NA;NA;NA
+836;MIKC-38;A.lyrata_petraea;A.lyrata_petraea_g44529.t1;A.lyrata_petraea_jg11798;Ape__jg11798;NA;NA;NA
+835;MIKC-38;A.arenosa_MJ09;A.arenosa_MJ09_4_g31720.t1;NA;Aaa__jg31720;NA;NA;NA
+834;MIKC-37;A.thaliana;Athaliana_At5g23260_AGL32_MIKC;NA;Ath__AT5G23260;AGL32;ABS, AGL32, TT16;TRANSPARENT TESTA16
+833;MIKC-37;A.halleri_halleri;A.halleri_halleri_g18003;NA;Aha__jg18003;NA;NA;NA
+832;MIKC-37;Capsella_rubella;Capsella_rubella_XP_023637034.1;NA;Cru__XP_023637034.1;NA;NA;NA
+831;MIKC-37;Capsella_grandiflora;Capsella_grandiflora_Cagra.4348s0011.1.p;NA;Cgr__Cagra.4348s0011.1.p;NA;NA;NA
+830;MIKC-37;A.lyrata_petraea;A.lyrata_petraea_g2615.t1;A.lyrata_petraea_jg32696;Ape__jg32696;NA;NA;NA
+829;MIKC-37;A.lyrata_lyrata;A.lyrata_lyrata_XP_020876103;NA;Aly__XP_020876103;NA;NA;NA
+828;MIKC-37;A.arenosa_strecno;A.arenosa_strecno_g12454.t1;NA;Adi__jg12454;NA;NA;NA
+827;MIKC-37;A.arenosa_MJ09;A.arenosa_MJ09_4_g6175.t1;NA;Aaa__jg6175;NA;NA;NA
+826;MIKC-36;A.thaliana;Athaliana_At3g54340_APETALA3_MIKC;NA;Ath__AT3G54340;APETALA3;AP3, ATAP3;APETALA 3
+825;MIKC-36;Capsella_rubella;Capsella_rubella_XP_006292594.1;NA;Cru__XP_006292594.1;NA;NA;NA
+824;MIKC-36;Capsella_grandiflora;Capsella_grandiflora_Cagra.0562s0025.1.p;NA;Cgr__Cagra.0562s0025.1.p;NA;NA;NA
+823;MIKC-36;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879680;NA;Aly__XP_020879680;NA;NA;NA
+822;MIKC-36;A.arenosa_strecno;A.arenosa_strecno_g26862.t1;NA;Adi__jg26862;NA;NA;NA
+821;MIKC-36;A.arenosa_MJ09;A.arenosa_MJ09_4_g15371.t1;NA;Aaa__jg15371;NA;NA;NA
+820;MIKC-36;A.lyrata_petraea;A.lyrata_petraea_g26286.t1;A.lyrata_petraea_jg16854;Ape__jg16854;NA;NA;NA
+819;MIKC-36;A.halleri_halleri;A.halleri_halleri_g1943;NA;Aha__jg1943;NA;NA;NA
+818;MIKC-35;Capsella_rubella;Capsella_rubella_XP_006288656.1;NA;Cru__XP_006288656.1;NA;NA;NA
+817;MIKC-35;Capsella_grandiflora;Capsella_grandiflora_Cagra.0179s0008.1.p;NA;Cgr__Cagra.0179s0008.1.p;NA;NA;NA
+816;MIKC-35;A.thaliana;Athaliana_At5g20240_PISTILLATA_MIKC;NA;Ath__AT5G20240;PISTILLATA;PI;PISTILLATA
+815;MIKC-35;A.lyrata_petraea;A.lyrata_petraea_g2273.t1;A.lyrata_petraea_jg32428;Ape__jg32428;NA;NA;NA
+814;MIKC-35;A.lyrata_lyrata;A.lyrata_lyrata_XP_020875850;NA;Aly__XP_020875850;NA;NA;NA
+813;MIKC-35;A.halleri_halleri;A.halleri_halleri_g32849;NA;Aha__jg32849;NA;NA;NA
+812;MIKC-35;A.arenosa_strecno;A.arenosa_strecno_g54.t1;NA;Adi__jg54;NA;NA;NA
+811;MIKC-35;A.arenosa_MJ09;A.arenosa_MJ09_4_g5889.t1;NA;Aaa__jg5889;NA;NA;NA
+810;MIKC-34;A.halleri_halleri;A.halleri_halleri_g10911;NA;Aha__jg10911;NA;NA;NA
+809;MIKC-34;A.lyrata_petraea;A.lyrata_petraea_g26654.t1;A.lyrata_petraea_jg17198;Ape__jg17198;NA;NA;NA
+808;MIKC-34;A.lyrata_lyrata;A.lyrata_lyrata_XP_020882293;NA;Aly__XP_020882293;NA;NA;NA
+807;MIKC-34;A.arenosa_strecno;A.arenosa_strecno_g26547.t1;NA;Adi__jg26547;NA;NA;NA
+806;MIKC-34;A.arenosa_MJ09;A.arenosa_MJ09_4_g15750.t1;NA;Aaa__jg15750;NA;NA;NA
+805;MIKC-34;A.thaliana;Athaliana_At3g57390_AGL18_MIKC;NA;Ath__AT3G57390;AGL18;AGL18;AGAMOUS-like 18
+804;MIKC-34;Capsella_rubella;Capsella_rubella_XP_006291720.1;NA;Cru__XP_006291720.1;NA;NA;NA
+803;MIKC-34;Capsella_grandiflora;Capsella_grandiflora_Cagra.0578s0070.1.p;NA;Cgr__Cagra.0578s0070.1.p;NA;NA;NA
+802;MIKC-33;Capsella_rubella;Capsella_rubella_XP_023636657.1;NA;Cru__XP_023636657.1;NA;NA;NA
+801;MIKC-33;Capsella_grandiflora;Capsella_grandiflora_Cagra.5588s0006.1.p;NA;Cgr__Cagra.5588s0006.1.p;NA;NA;NA
+800;MIKC-33;A.arenosa_strecno;A.arenosa_strecno_g662.t1;NA;Adi__jg662;NA;NA;NA
+799;MIKC-33;A.halleri_halleri;A.halleri_halleri_g4945;NA;Aha__jg4945;NA;NA;NA
+798;MIKC-33;A.thaliana;Athaliana_At5g13790_AGL15_MIKC;NA;Ath__AT5G13790;AGL15;AGL15;AGAMOUS-like 15
+797;MIKC-33;A.arenosa_MJ09;A.arenosa_MJ09_4_g5189.t1;NA;Aaa__jg5189;NA;NA;NA
+796;MIKC-33;A.halleri_halleri;A.halleri_halleri_g1611;NA;Aha__jg1611;NA;NA;NA
+795;MIKC-33;A.lyrata_petraea;A.lyrata_petraea_g1544.t1;A.lyrata_petraea_jg31738;Ape__jg31738;NA;NA;NA
+794;MIKC-33;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879445;NA;Aly__XP_020879445;NA;NA;NA
+793;MIKC-32;Capsella_rubella;Capsella_rubella_XP_023635899.1;NA;Cru__XP_023635899.1;NA;NA;NA
+792;MIKC-32;Capsella_grandiflora;Capsella_grandiflora_Cagra.1085s0045.1.p;NA;Cgr__Cagra.1085s0045.1.p;NA;NA;NA
+791;MIKC-32;A.thaliana;Athaliana_At5g10140_AGL25_MIKC;NA;Ath__AT5G10140;AGL25;AGL25, FLC, FLF, RSB6;FLOWERING LOCUS C
+790;MIKC-32;A.arenosa_MJ09;A.arenosa_MJ09_4_g4842.t1;NA;Aaa__jg4842;NA;NA;NA
+789;MIKC-32;A.lyrata_petraea;A.lyrata_petraea_g1130.t1;A.lyrata_petraea_jg31363;Ape__jg31363;NA;NA;NA
+788;MIKC-32;A.lyrata_lyrata;A.lyrata_lyrata_XP_002873441;NA;Aly__XP_002873441;NA;NA;NA
+787;MIKC-32;A.arenosa_MJ09;A.arenosa_MJ09_4_g4839.t1;NA;Aaa__jg4839;NA;NA;NA
+786;MIKC-32;A.arenosa_strecno;A.arenosa_strecno_g34528.t1;NA;Adi__jg34528;NA;NA;NA
+785;MIKC-32;A.arenosa_strecno;A.arenosa_strecno_g34335.t1;NA;Adi__jg34335;NA;NA;NA
+784;MIKC-32;A.lyrata_petraea;A.lyrata_petraea_g1127_1126.t1;A.lyrata_petraea_jg31360;Ape__jg31360;NA;NA;NA
+783;MIKC-32;A.lyrata_lyrata;A.lyrata_lyrata_XP_020878014;NA;Aly__XP_020878014;NA;NA;NA
+782;MIKC-32;A.halleri_halleri;A.halleri_halleri_g9927;NA;Aha__jg9927;NA;NA;NA
+781;MIKC-31;Capsella_grandiflora;Capsella_grandiflora_Cagra.0917s0078.1.p;NA;Cgr__Cagra.0917s0078.1.p;NA;NA;NA
+780;MIKC-31;A.thaliana;Athaliana_At5g65080_AGL68_MIKC;NA;Ath__AT5G65080;AGL68;AGL68, MAF5;MADS AFFECTING FLOWERING 5
+779;MIKC-31;A.arenosa_strecno;A.arenosa_strecno_g2582_2581.t1;NA;Adi__jg2582_2581;NA;NA;NA
+778;MIKC-31;A.arenosa_MJ09;A.arenosa_MJ09_4_g23516.t1;NA;Aaa__jg23516;NA;NA;NA
+777;MIKC-30;Capsella_rubella;Capsella_rubella_XP_006279830.1;NA;Cru__XP_006279830.1;NA;NA;NA
+776;MIKC-30;Capsella_grandiflora;Capsella_grandiflora_Cagra.0917s0080;NA;Cgr__Cagra.0917s0080;NA;NA;NA
+775;MIKC-30;A.thaliana;Athaliana_At5g65070_AGL69_MIKC;NA;Ath__AT5G65070;AGL69;AGL69, FCL4, MAF4;MADS AFFECTING FLOWERING 4
+774;MIKC-30;A.arenosa_strecno;A.arenosa_strecno_g2579_2580.t1;NA;Adi__jg2579_2580;NA;NA;NA
+773;MIKC-30;A.arenosa_MJ09;A.arenosa_MJ09_4_g23515.t1;NA;Aaa__jg23515;NA;NA;NA
+772;MIKC-30;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889324;NA;Aly__XP_020889324;NA;NA;NA
+771;MIKC-30;A.lyrata_petraea;A.lyrata_petraea_g11549.t1;A.lyrata_petraea_jg3494;Ape__jg3494;NA;NA;NA
+770;MIKC-30;A.halleri_halleri;A.halleri_halleri_g32040;NA;Aha__jg32040;NA;NA;NA
+769;MIKC-29;Capsella_rubella;Capsella_rubella_XP_006302848.1;NA;Cru__XP_006302848.1;NA;NA;NA
+768;MIKC-29;Capsella_grandiflora;Capsella_grandiflora_Cagra.0450s0030.1.p;NA;Cgr__Cagra.0450s0030.1.p;NA;NA;NA
+767;MIKC-29;A.thaliana;Athaliana_At1g77080_AGL27_MIKC;NA;Ath__AT1G77080;AGL27;AGL27, FLM, MAF1;MADS AFFECTING FLOWERING 1
+766;MIKC-29;A.arenosa_strecno;A.arenosa_strecno_g4892_4893.t1;NA;Adi__jg4892_4893;NA;NA;NA
+765;MIKC-29;A.arenosa_MJ09;A.arenosa_MJ09_4_g3374.t1;NA;Aaa__jg3374;NA;NA;NA
+764;MIKC-29;A.halleri_halleri;A.halleri_halleri_g19921;NA;Aha__jg19921;NA;NA;NA
+763;MIKC-29;A.lyrata_petraea;A.lyrata_petraea_g21640.t1;A.lyrata_petraea_jg25374;Ape__jg25374;NA;NA;NA
+762;MIKC-29;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890340;NA;Aly__XP_020890340;NA;NA;NA
+761;MIKC-28;Capsella_grandiflora;Capsella_grandiflora_Cagra.0917s0081.1.p;NA;Cgr__Cagra.0917s0081.1.p;NA;NA;NA
+760;MIKC-28;A.thaliana;Athaliana_At5g65050_AGL31_MIKC;NA;Ath__AT5G65050;AGL31;AGL31, MAF2;AGAMOUS-like 31
+759;MIKC-28;A.thaliana;Athaliana_At5g65060_AGL70_MIKC;NA;Ath__AT5G65060;AGL70;AGL70, FCL3, MAF3;MADS AFFECTING FLOWERING 3
+758;MIKC-28;A.lyrata_lyrata;A.lyrata_lyrata_XP_020872031;NA;Aly__XP_020872031;NA;NA;NA
+757;MIKC-28;A.arenosa_strecno;A.arenosa_strecno_g24244.t1;NA;Adi__jg24244;NA;NA;NA
+756;MIKC-28;A.arenosa_MJ09;A.arenosa_MJ09_4_g23514.t1;NA;Aaa__jg23514;NA;NA;NA
+755;MIKC-28;A.arenosa_MJ09;A.arenosa_MJ09_4_g23512.t1;NA;Aaa__jg23512;NA;NA;NA
+754;MIKC-28;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889288;NA;Aly__XP_020889288;NA;NA;NA
+753;MIKC-28;A.lyrata_petraea;A.lyrata_petraea_g11547.t1;A.lyrata_petraea_jg3492;Ape__jg3492;NA;NA;NA
+752;MIKC-28;A.halleri_halleri;A.halleri_halleri_g31586;NA;Aha__jg31586;NA;NA;NA
+751;MIKC-28;A.arenosa_strecno;A.arenosa_strecno_g24243.t1;NA;Adi__jg24243;NA;NA;NA
+750;MIKC-27;A.thaliana;Athaliana_At2g22540_AGL22_MIKC;NA;Ath__AT2G22540;AGL22;AGL22, FAQ1, SVP;SHORT VEGETATIVE PHASE
+749;MIKC-27;A.lyrata_petraea;A.lyrata_petraea_g12213.t1;A.lyrata_petraea_jg4058;Ape__jg4058;NA;NA;NA
+748;MIKC-27;A.lyrata_lyrata;A.lyrata_lyrata_XP_020884932;NA;Aly__XP_020884932;NA;NA;NA
+747;MIKC-27;A.arenosa_strecno;A.arenosa_strecno_g31030.t1;NA;Adi__jg31030;NA;NA;NA
+746;MIKC-27;A.arenosa_MJ09;A.arenosa_MJ09_4_g16681.t1;NA;Aaa__jg16681;NA;NA;NA
+745;MIKC-27;A.halleri_halleri;A.halleri_halleri_g17709;NA;Aha__jg17709;NA;NA;NA
+744;MIKC-27;Capsella_rubella;Capsella_rubella_XP_023640030.1;NA;Cru__XP_023640030.1;NA;NA;NA
+743;MIKC-27;Capsella_grandiflora;Capsella_grandiflora_Cagra.1080s0011.1.p;NA;Cgr__Cagra.1080s0011.1.p;NA;NA;NA
+742;MIKC-26;Capsella_rubella;Capsella_rubella_XP_023635073.1;NA;Cru__XP_023635073.1;NA;NA;NA
+741;MIKC-26;Capsella_grandiflora;Capsella_grandiflora_Cagra.2171s0007.1.p;NA;Cgr__Cagra.2171s0007.1.p;NA;NA;NA
+740;MIKC-26;A.thaliana;Athaliana_At4g24540_AGL24_MIKC;NA;Ath__AT4G24540;AGL24;AGL24;AGAMOUS-like 24
+739;MIKC-26;A.halleri_halleri;A.halleri_halleri_g14379;NA;Aha__jg14379;NA;NA;NA
+738;MIKC-26;A.lyrata_petraea;A.lyrata_petraea_g29440.t1;A.lyrata_petraea_jg19763;Ape__jg19763;NA;NA;NA
+737;MIKC-26;A.lyrata_lyrata;A.lyrata_lyrata_XP_020873725;NA;Aly__XP_020873725;NA;NA;NA
+736;MIKC-26;A.arenosa_strecno;A.arenosa_strecno_g17632.t1;NA;Adi__jg17632;NA;NA;NA
+735;MIKC-26;A.arenosa_MJ09;A.arenosa_MJ09_4_g10023.t1;NA;Aaa__jg10023;NA;NA;NA
+734;MIKC-25;Capsella_rubella;Capsella_rubella_XP_023642287.1;NA;Cru__XP_023642287.1;NA;NA;NA
+733;MIKC-25;Capsella_grandiflora;Capsella_grandiflora_Cagra.3821s0004.1.p;NA;Cgr__Cagra.3821s0004.1.p;NA;NA;NA
+732;MIKC-25;A.thaliana;Athaliana_At2g14210_AGL44_MIKC;NA;Ath__AT2G14210;AGL44;AGL44, ANR1, AtANR1;AGAMOUS-like 44
+731;MIKC-25;A.arenosa_MJ09;A.arenosa_MJ09_4_g27446.t1;NA;Aaa__jg27446;NA;NA;NA
+730;MIKC-25;A.arenosa_strecno;A.arenosa_strecno_g13726_13725.t1;NA;Adi__jg13726_13725;NA;NA;NA
+729;MIKC-25;A.lyrata_petraea;A.lyrata_petraea_g37965.t1;A.lyrata_petraea_jg29367;Ape__jg29367;NA;NA;NA
+728;MIKC-25;A.lyrata_lyrata;A.lyrata_lyrata_XP_002883829;NA;Aly__XP_002883829;NA;NA;NA
+727;MIKC-24;Capsella_rubella;Capsella_rubella_XP_006291780.1;NA;Cru__XP_006291780.1;NA;NA;NA
+726;MIKC-24;Capsella_grandiflora;Capsella_grandiflora_Cagra.0578s0054.1.p;NA;Cgr__Cagra.0578s0054.1.p;NA;NA;NA
+725;MIKC-24;A.thaliana;Athaliana_At3g57230_AGL16_MIKC;NA;Ath__AT3G57230;AGL16;AGL16;AGAMOUS-like 16
+724;MIKC-24;A.arenosa_strecno;A.arenosa_strecno_g26567_26566.t1;NA;Adi__jg26567_26566;NA;NA;NA
+723;MIKC-24;A.arenosa_MJ09;A.arenosa_MJ09_4_g15725.t1;NA;Aaa__jg15725;NA;NA;NA
+722;MIKC-24;A.arenosa_MJ09;A.arenosa_MJ09_4_g15656.t1;NA;Aaa__jg15656;NA;NA;NA
+721;MIKC-24;A.halleri_halleri;A.halleri_halleri_g27164;NA;Aha__jg27164;NA;NA;NA
+720;MIKC-24;A.lyrata_petraea;A.lyrata_petraea_g26639.t1;A.lyrata_petraea_jg17183;Ape__jg17183;NA;NA;NA
+719;MIKC-24;A.lyrata_lyrata;A.lyrata_lyrata_XP_002876404;NA;Aly__XP_002876404;NA;NA;NA
+718;MIKC-23;Capsella_rubella;Capsella_rubella_XP_006294943.1;NA;Cru__XP_006294943.1;NA;NA;NA
+717;MIKC-23;Capsella_grandiflora;Capsella_grandiflora_Cagra.1080s0003.1.p;NA;Cgr__Cagra.1080s0003.1.p;NA;NA;NA
+716;MIKC-23;A.thaliana;Athaliana_At2g22630_AGL17_MIKC;NA;Ath__AT2G22630;AGL17;AGL17;AGAMOUS-like 17
+715;MIKC-23;A.lyrata_petraea;A.lyrata_petraea_g12222.t1;A.lyrata_petraea_jg4066;Ape__jg4066;NA;NA;NA
+714;MIKC-23;A.lyrata_lyrata;A.lyrata_lyrata_XP_002878626;NA;Aly__XP_002878626;NA;NA;NA
+713;MIKC-23;A.halleri_halleri;A.halleri_halleri_g18708;NA;Aha__jg18708;NA;NA;NA
+712;MIKC-23;A.arenosa_strecno;A.arenosa_strecno_g31038.t1;NA;Adi__jg31038;NA;NA;NA
+711;MIKC-23;A.arenosa_MJ09;A.arenosa_MJ09_4_g16690.t1;NA;Aaa__jg16690;NA;NA;NA
+710;MIKC-22;A.thaliana;Athaliana_At4g37940_AGL21_MIKC;NA;Ath__AT4G37940;AGL21;AGL21;AGAMOUS-like 21
+709;MIKC-22;Capsella_rubella;Capsella_rubella_XP_006285120.1;NA;Cru__XP_006285120.1;NA;NA;NA
+708;MIKC-22;Capsella_grandiflora;Capsella_grandiflora_Cagra.5414s0059.1.p;NA;Cgr__Cagra.5414s0059.1.p;NA;NA;NA
+707;MIKC-22;A.lyrata_petraea;A.lyrata_petraea_g27737.t1;A.lyrata_petraea_jg18174;Ape__jg18174;NA;NA;NA
+706;MIKC-22;A.lyrata_lyrata;A.lyrata_lyrata_XP_020873029;NA;Aly__XP_020873029;NA;NA;NA
+705;MIKC-22;A.halleri_halleri;A.halleri_halleri_g23071;NA;Aha__jg23071;NA;NA;NA
+704;MIKC-22;A.arenosa_MJ09;A.arenosa_MJ09_4_g8537.t1;NA;Aaa__jg8537;NA;NA;NA
+703;MIKC-22;A.halleri_halleri;A.halleri_halleri_g20987;NA;Aha__jg20987;NA;NA;NA
+702;MIKC-22;A.arenosa_strecno;A.arenosa_strecno_g28978.t1;NA;Adi__jg28978;NA;NA;NA
+701;MIKC-21;Capsella_rubella;Capsella_rubella_XP_006286826.2;NA;Cru__XP_006286826.2;NA;NA;NA
+700;MIKC-21;Capsella_grandiflora;Capsella_grandiflora_Cagra.4960s0003.1.p;NA;Cgr__Cagra.4960s0003.1.p;NA;NA;NA
+699;MIKC-21;A.thaliana;Athaliana_At4g09960_AGL11_MIKC;NA;Ath__AT4G09960;AGL11;AGL11, STK;SEEDSTICK
+698;MIKC-21;A.lyrata_lyrata;A.lyrata_lyrata_XP_020878991;NA;Aly__XP_020878991;NA;NA;NA
+697;MIKC-21;A.arenosa_strecno;A.arenosa_strecno_g25952.t1;NA;Adi__jg25952;NA;NA;NA
+696;MIKC-21;A.arenosa_MJ09;A.arenosa_MJ09_4_g7328.t1;NA;Aaa__jg7328;NA;NA;NA
+695;MIKC-21;A.lyrata_petraea;A.lyrata_petraea_g4739.t1;A.lyrata_petraea_jg33844;Ape__jg33844;NA;NA;NA
+694;MIKC-21;A.halleri_halleri;A.halleri_halleri_g7053;NA;Aha__jg7053;NA;NA;NA
+693;MIKC-20;Capsella_rubella;Capsella_rubella_XP_023633847.1;NA;Cru__XP_023633847.1;NA;NA;NA
+692;MIKC-20;A.lyrata_lyrata;A.lyrata_lyrata_XP_020874538;NA;Aly__XP_020874538;NA;NA;NA
+691;MIKC-20;A.halleri_halleri;A.halleri_halleri_g27892;NA;Aha__jg27892;NA;NA;NA
+690;MIKC-20;A.arenosa_strecno;A.arenosa_strecno_g15204.t1;NA;Adi__jg15204;NA;NA;NA
+689;MIKC-20;Capsella_grandiflora;Capsella_grandiflora_Cagra.9536s0004.1.p;NA;Cgr__Cagra.9536s0004.1.p;NA;NA;NA
+688;MIKC-20;A.thaliana;Athaliana_At4g18960_AGAMOUS_MIKC;NA;Ath__AT4G18960;AGAMOUS;AG;AGAMOUS
+687;MIKC-20;A.lyrata_petraea;A.lyrata_petraea_g30238.t1;A.lyrata_petraea_jg20444;Ape__jg20444;NA;NA;NA
+686;MIKC-20;A.arenosa_MJ09;A.arenosa_MJ09_4_g10693.t1;NA;Aaa__jg10693;NA;NA;NA
+685;MIKC-19;Capsella_rubella;Capsella_rubella_XP_006295872.1;NA;Cru__XP_006295872.1;NA;NA;NA
+684;MIKC-19;Capsella_grandiflora;Capsella_grandiflora_Cagra.0202s0031.1.p;NA;Cgr__Cagra.0202s0031.1.p;NA;NA;NA
+683;MIKC-19;A.thaliana;Athaliana_At2g42830_AGL5_MIKC;NA;Ath__AT2G42830;AGL5;AGL5, SHP2;SHATTERPROOF 2
+682;MIKC-19;A.lyrata_petraea;A.lyrata_petraea_g16770.t1;A.lyrata_petraea_jg7112;Ape__jg7112;NA;NA;NA
+681;MIKC-19;A.lyrata_lyrata;A.lyrata_lyrata_XP_002880005;NA;Aly__XP_002880005;NA;NA;NA
+680;MIKC-19;A.halleri_halleri;A.halleri_halleri_g30021;NA;Aha__jg30021;NA;NA;NA
+679;MIKC-19;A.arenosa_strecno;A.arenosa_strecno_g6134.t1;NA;Adi__jg6134;NA;NA;NA
+678;MIKC-19;A.arenosa_MJ09;A.arenosa_MJ09_4_g19602.t1;NA;Aaa__jg19602;NA;NA;NA
+677;MIKC-18;Capsella_rubella;Capsella_rubella_XP_023637931.1;NA;Cru__XP_023637931.1;NA;NA;NA
+676;MIKC-18;Capsella_grandiflora;Capsella_grandiflora_Cagra.21079s0001.1.p;NA;Cgr__Cagra.21079s0001.1.p;NA;NA;NA
+675;MIKC-18;A.thaliana;Athaliana_At3g58780_AGL1_MIKC;NA;Ath__AT3G58780;AGL1;AGL1, SHP1;SHATTERPROOF 1
+674;MIKC-18;A.halleri_halleri;A.halleri_halleri_g8853;NA;Aha__jg8853;NA;NA;NA
+673;MIKC-18;A.arenosa_strecno;A.arenosa_strecno_g26404.t1;NA;Adi__jg26404;NA;NA;NA
+672;MIKC-18;A.lyrata_lyrata;A.lyrata_lyrata_XP_020880598;NA;Aly__XP_020880598;NA;NA;NA
+671;MIKC-18;A.lyrata_petraea;A.lyrata_petraea_g26834.t1;A.lyrata_petraea_jg17358;Ape__jg17358;NA;NA;NA
+670;MIKC-18;A.arenosa_MJ09;A.arenosa_MJ09_4_g15905.t1;NA;Aaa__jg15905;NA;NA;NA
+669;MIKC-17;Capsella_rubella;Capsella_rubella_XP_006294978.1;NA;Cru__XP_006294978.1;NA;NA;NA
+668;MIKC-17;Capsella_grandiflora;Capsella_grandiflora_Cagra.0050s0134.1.p;NA;Cgr__Cagra.0050s0134.1.p;NA;NA;NA
+667;MIKC-17;A.thaliana;Athaliana_At2g45660_AGL20_MIKC;NA;Ath__AT2G45660;AGL20;AGL20, ATSOC1, SOC1;AGAMOUS-like 20
+666;MIKC-17;A.halleri_halleri;A.halleri_halleri_g44;NA;Aha__jg44;NA;NA;NA
+665;MIKC-17;A.lyrata_petraea;A.lyrata_petraea_g17179.t1;A.lyrata_petraea_jg7486;Ape__jg7486;NA;NA;NA
+664;MIKC-17;A.lyrata_lyrata;A.lyrata_lyrata_XP_002882024;NA;Aly__XP_002882024;NA;NA;NA
+663;MIKC-17;A.arenosa_strecno;A.arenosa_strecno_g6447.t1;NA;Adi__jg6447;NA;NA;NA
+662;MIKC-17;A.arenosa_MJ09;A.arenosa_MJ09_4_g19960.t1;NA;Aaa__jg19960;NA;NA;NA
+661;MIKC-16;A.thaliana;Athaliana_At4g11880_AGL14_MIKC;NA;Ath__AT4G11880;AGL14;AGL14, XAL2;AGAMOUS-like 14
+660;MIKC-16;Capsella_rubella;Capsella_rubella_XP_006288611.1;NA;Cru__XP_006288611.1;NA;NA;NA
+659;MIKC-16;Capsella_grandiflora;Capsella_grandiflora_Cagra.7242s0001.1.p;NA;Cgr__Cagra.7242s0001.1.p;NA;NA;NA
+658;MIKC-16;A.arenosa_strecno;A.arenosa_strecno_g25729.t1;NA;Adi__jg25729;NA;NA;NA
+657;MIKC-16;A.lyrata_petraea;A.lyrata_petraea_g5209.t1;A.lyrata_petraea_jg34142;Ape__jg34142;NA;NA;NA
+656;MIKC-16;A.lyrata_lyrata;A.lyrata_lyrata_XP_020875880;NA;Aly__XP_020875880;NA;NA;NA
+655;MIKC-15;A.thaliana;Athaliana_At4g22950_AGL19_MIKC;NA;Ath__AT4G22950;AGL19;AGL19, GL19;AGAMOUS-like 19
+654;MIKC-15;Capsella_rubella;Capsella_rubella_XP_023634924.1;NA;Cru__XP_023634924.1;NA;NA;NA
+653;MIKC-15;Capsella_grandiflora;Capsella_grandiflora_Cagra.6745s0008.1.p;NA;Cgr__Cagra.6745s0008.1.p;NA;NA;NA
+652;MIKC-15;A.arenosa_MJ09;A.arenosa_MJ09_4_g10230.t1;NA;Aaa__jg10230;NA;NA;NA
+651;MIKC-15;A.lyrata_lyrata;A.lyrata_lyrata_XP_020873730;NA;Aly__XP_020873730;NA;NA;NA
+650;MIKC-15;A.lyrata_petraea;A.lyrata_petraea_g29647.t1;A.lyrata_petraea_jg19950;Ape__jg19950;NA;NA;NA
+649;MIKC-15;A.halleri_halleri;A.halleri_halleri_g11542;NA;Aha__jg11542;NA;NA;NA
+648;MIKC-14;Capsella_rubella;Capsella_rubella_XP_023640210.1;NA;Cru__XP_023640210.1;NA;NA;NA
+647;MIKC-14;Capsella_grandiflora;Capsella_grandiflora_Cagra.4003s0006.1.p;NA;Cgr__Cagra.4003s0006.1.p;NA;NA;NA
+646;MIKC-14;A.thaliana;Athaliana_At5g62165_AGL42_MIKC;NA;Ath__AT5G62165;AGL42;AGL42, FYF;AGAMOUS-like 42
+645;MIKC-14;A.arenosa_strecno;A.arenosa_strecno_g2272.t1;NA;Adi__jg2272;NA;NA;NA
+644;MIKC-14;A.arenosa_MJ09;A.arenosa_MJ09_4_g23166.t1;NA;Aaa__jg23166;NA;NA;NA
+643;MIKC-14;A.lyrata_petraea;A.lyrata_petraea_g11130.t1;A.lyrata_petraea_jg3106;Ape__jg3106;NA;NA;NA
+642;MIKC-14;A.lyrata_lyrata;A.lyrata_lyrata_XP_020877745;NA;Aly__XP_020877745;NA;NA;NA
+641;MIKC-13;A.arenosa_MJ09;A.arenosa_MJ09_4_g20681.t1;NA;Aaa__jg20681;NA;NA;NA
+640;MIKC-13;A.halleri_halleri;A.halleri_halleri_g19936;NA;Aha__jg19936;NA;NA;NA
+639;MIKC-13;A.arenosa_strecno;A.arenosa_strecno_g8698.t1;NA;Adi__jg8698;NA;NA;NA
+638;MIKC-13;Capsella_rubella;Capsella_rubella_XP_006281070.1;NA;Cru__XP_006281070.1;NA;NA;NA
+637;MIKC-13;A.arenosa_strecno;A.arenosa_strecno_g13275.t1;NA;Adi__jg13275;NA;NA;NA
+636;MIKC-13;A.thaliana;Athaliana_At5g51870_AGL71_MIKC;NA;Ath__AT5G51870;AGL71;AGL71;AGAMOUS-like 71
+635;MIKC-13;A.arenosa_MJ09;A.arenosa_MJ09_4_g21868.t1;NA;Aaa__jg21868;NA;NA;NA
+634;MIKC-13;A.lyrata_petraea;A.lyrata_petraea_g9619.t1;A.lyrata_petraea_jg1837;Ape__jg1837;NA;NA;NA
+633;MIKC-13;A.lyrata_lyrata;A.lyrata_lyrata_XP_020872012;NA;Aly__XP_020872012;NA;NA;NA
+632;MIKC-12;Capsella_rubella;Capsella_rubella_XP_023633792.1;NA;Cru__XP_023633792.1;NA;NA;NA
+631;MIKC-12;Capsella_grandiflora;Capsella_grandiflora_Cagra.2248s0020.1.p;NA;Cgr__Cagra.2248s0020.1.p;NA;NA;NA
+630;MIKC-12;Capsella_rubella;Capsella_rubella_XP_006281451.1;NA;Cru__XP_006281451.1;NA;NA;NA
+629;MIKC-12;Capsella_grandiflora;Capsella_grandiflora_Cagra.0542s0040.1.p;NA;Cgr__Cagra.0542s0040.1.p;NA;NA;NA
+628;MIKC-12;Capsella_rubella;Capsella_rubella_XP_023644519.1;NA;Cru__XP_023644519.1;NA;NA;NA
+627;MIKC-12;Capsella_grandiflora;Capsella_grandiflora_Cagra.0277s0030.1.p;NA;Cgr__Cagra.0277s0030.1.p;NA;NA;NA
+626;MIKC-12;A.arenosa_strecno;A.arenosa_strecno_g13276.t1;NA;Adi__jg13276;NA;NA;NA
+625;MIKC-12;A.lyrata_petraea;A.lyrata_petraea_g9618.t1;A.lyrata_petraea_jg1836;Ape__jg1836;NA;NA;NA
+624;MIKC-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_002865878;NA;Aly__XP_002865878;NA;NA;NA
+623;MIKC-12;A.thaliana;Athaliana_At5g51860_AGL72_MIKC;NA;Ath__AT5G51860;AGL72;AGL72;AGAMOUS-like 72
+622;MIKC-12;A.halleri_halleri;A.halleri_halleri_g8227;NA;Aha__jg8227;NA;NA;NA
+621;MIKC-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21867.t1;NA;Aaa__jg21867;NA;NA;NA
+620;MIKC-11;A.arenosa_strecno;A.arenosa_strecno_g34026.t1;NA;Adi__jg34026;NA;NA;NA
+619;MIKC-11;A.arenosa_MJ09;A.arenosa_MJ09_4_g2788.t1;NA;Aaa__jg2788;NA;NA;NA
+618;MIKC-11;A.thaliana;Athaliana_At1g71692_AGL12_MIKC;NA;Ath__AT1G71692;AGL12;AGL12, XAL1;AGAMOUS-like 12
+617;MIKC-11;Capsella_rubella;Capsella_rubella_XP_006300552.1;NA;Cru__XP_006300552.1;NA;NA;NA
+616;MIKC-11;Capsella_grandiflora;Capsella_grandiflora_Cagra.2418s0012.1.p;NA;Cgr__Cagra.2418s0012.1.p;NA;NA;NA
+615;MIKC-11;A.lyrata_lyrata;A.lyrata_lyrata_XP_002888841;NA;Aly__XP_002888841;NA;NA;NA
+614;MIKC-11;A.lyrata_petraea;A.lyrata_petraea_g20955.t1;A.lyrata_petraea_jg24750;Ape__jg24750;NA;NA;NA
+613;MIKC-11;A.halleri_halleri;A.halleri_halleri_g20562;NA;Aha__jg20562;NA;NA;NA
+612;MIKC-10;A.thaliana;Athaliana_At3g61120_AGL13_MIKC;NA;Ath__AT3G61120;AGL13;AGL13;AGAMOUS-like 13
+611;MIKC-10;A.lyrata_petraea;A.lyrata_petraea_g27160.t1;A.lyrata_petraea_jg17646;Ape__jg17646;NA;NA;NA
+610;MIKC-10;A.lyrata_lyrata;A.lyrata_lyrata_XP_020882426;NA;Aly__XP_020882426;NA;NA;NA
+609;MIKC-10;A.halleri_halleri;A.halleri_halleri_g19198;NA;Aha__jg19198;NA;NA;NA
+608;MIKC-10;A.arenosa_strecno;A.arenosa_strecno_g25284.t1;NA;Adi__jg25284;NA;NA;NA
+607;MIKC-10;A.arenosa_MJ09;A.arenosa_MJ09_4_g16163.t1;NA;Aaa__jg16163;NA;NA;NA
+606;MIKC-9;A.thaliana;Athaliana_At2g45650_AGL6_MIKC;NA;Ath__AT2G45650;AGL6;AGL6, RSB1;AGAMOUS-like 6
+605;MIKC-9;Capsella_rubella;Capsella_rubella_XP_006294857.1;NA;Cru__XP_006294857.1;NA;NA;NA
+604;MIKC-9;Capsella_grandiflora;Capsella_grandiflora_Cagra.0050s0135.1.p;NA;Cgr__Cagra.0050s0135.1.p;NA;NA;NA
+603;MIKC-9;A.arenosa_MJ09;A.arenosa_MJ09_4_g19959.t1;NA;Aaa__jg19959;NA;NA;NA
+602;MIKC-9;A.lyrata_petraea;A.lyrata_petraea_g17178.t1;A.lyrata_petraea_jg7485;Ape__jg7485;NA;NA;NA
+601;MIKC-9;A.lyrata_lyrata;A.lyrata_lyrata_XP_020884706;NA;Aly__XP_020884706;NA;NA;NA
+600;MIKC-9;A.halleri_halleri;A.halleri_halleri_g45;NA;Aha__jg45;NA;NA;NA
+599;MIKC-9;A.arenosa_strecno;A.arenosa_strecno_g6446.t1;NA;Adi__jg6446;NA;NA;NA
+598;MIKC-8;A.arenosa_strecno;A.arenosa_strecno_g23892.t1;NA;Adi__jg23892;NA;NA;NA
+597;MIKC-8;A.thaliana;Athaliana_At3g30260_AGL79_MIKC;NA;Ath__AT3G30260;AGL79;AGL79;AGAMOUS-like 79
+596;MIKC-8;Capsella_rubella;Capsella_rubella_XP_006292203.1;NA;Cru__XP_006292203.1;NA;NA;NA
+595;MIKC-8;Capsella_grandiflora;Capsella_grandiflora_Cagra.2834s0001.1.p;NA;Cgr__Cagra.2834s0001.1.p;NA;NA;NA
+594;MIKC-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g13855_13856.t1;NA;Aaa__jg13855_13856;NA;NA;NA
+593;MIKC-8;A.lyrata_petraea;A.lyrata_petraea_g23778.t1;A.lyrata_petraea_jg15143;Ape__jg15143;NA;NA;NA
+592;MIKC-8;A.lyrata_lyrata;A.lyrata_lyrata_XP_002875532;NA;Aly__XP_002875532;NA;NA;NA
+591;MIKC-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g23032.t1;NA;Aaa__jg23032;NA;NA;NA
+590;MIKC-7;A.thaliana;Athaliana_At5g60910_AGL8_MIKC;NA;Ath__AT5G60910;AGL8;AGL8, FUL;AGAMOUS-like 8
+589;MIKC-7;A.lyrata_petraea;A.lyrata_petraea_g10985.t1;A.lyrata_petraea_jg2973;Ape__jg2973;NA;NA;NA
+588;MIKC-7;A.lyrata_lyrata;A.lyrata_lyrata_XP_002866402;NA;Aly__XP_002866402;NA;NA;NA
+587;MIKC-7;Capsella_rubella;Capsella_rubella_XP_006281003.1;NA;Cru__XP_006281003.1;NA;NA;NA
+586;MIKC-7;A.halleri_halleri;A.halleri_halleri_g13531;NA;Aha__jg13531;NA;NA;NA
+585;MIKC-7;A.arenosa_strecno;A.arenosa_strecno_g2142.t1;NA;Adi__jg2142;NA;NA;NA
+584;MIKC-6;Capsella_rubella;Capsella_rubella_XP_006304696.1;NA;Cru__XP_006304696.1;NA;NA;NA
+583;MIKC-6;Capsella_grandiflora;Capsella_grandiflora_Cagra.6677s0007.1.p;NA;Cgr__Cagra.6677s0007.1.p;NA;NA;NA
+582;MIKC-6;A.thaliana;Athaliana_At1g26310_AGL10_MIKC;NA;Ath__AT1G26310;AGL10;AGL10, CAL, CAL1;CAULIFLOWER
+581;MIKC-6;A.halleri_halleri;A.halleri_halleri_g3645;NA;Aha__jg3645;NA;NA;NA
+580;MIKC-6;A.arenosa_MJ09;A.arenosa_MJ09_4_g31128.t1;NA;Aaa__jg31128;NA;NA;NA
+579;MIKC-6;A.lyrata_lyrata;A.lyrata_lyrata_XP_002890666;NA;Aly__XP_002890666;NA;NA;NA
+578;MIKC-6;A.lyrata_petraea;A.lyrata_petraea_g42857.t1;A.lyrata_petraea_jg10657;Ape__jg10657;NA;NA;NA
+577;MIKC-6;A.arenosa_strecno;A.arenosa_strecno_g18952.t1;NA;Adi__jg18952;NA;NA;NA
+576;MIKC-5;Capsella_rubella;Capsella_rubella_XP_006301567.1;NA;Cru__XP_006301567.1;NA;NA;NA
+575;MIKC-5;Capsella_grandiflora;Capsella_grandiflora_Cagra.1157s0032.1.p;NA;Cgr__Cagra.1157s0032.1.p;NA;NA;NA
+574;MIKC-5;A.thaliana;Athaliana_At1g69120_AGL7_MIKC;NA;Ath__AT1G69120;AGL7;AGL7, AP1, AtAP1;APETALA1
+573;MIKC-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g2490.t1;NA;Aaa__jg2490;NA;NA;NA
+572;MIKC-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_020865978;NA;Aly__XP_020865978;NA;NA;NA
+571;MIKC-5;A.halleri_halleri;A.halleri_halleri_g18843;NA;Aha__jg18843;NA;NA;NA
+570;MIKC-5;A.lyrata_petraea;A.lyrata_petraea_g20611.t1;A.lyrata_petraea_jg24454;Ape__jg24454;NA;NA;NA
+569;MIKC-5;A.arenosa_strecno;A.arenosa_strecno_g23229.t1;NA;Adi__jg23229;NA;NA;NA
+568;MIKC-4;Capsella_rubella;Capsella_rubella_XP_006291635.1;NA;Cru__XP_006291635.1;NA;NA;NA
+567;MIKC-4;Capsella_grandiflora;Capsella_grandiflora_Cagra.0447s0009.1.p;NA;Cgr__Cagra.0447s0009.1.p;NA;NA;NA
+566;MIKC-4;A.thaliana;Athaliana_At2g03710_AGL3_MIKC;NA;Ath__AT2G03710;AGL3;AGL3, SEP4;SEPALLATA 4
+565;MIKC-4;A.lyrata_petraea;A.lyrata_petraea_g22596.t1;A.lyrata_petraea_jg14432;Ape__jg14432;NA;NA;NA
+564;MIKC-4;A.lyrata_lyrata;A.lyrata_lyrata_XP_002875226;NA;Aly__XP_002875226;NA;NA;NA
+563;MIKC-4;A.halleri_halleri;A.halleri_halleri_g11428;NA;Aha__jg11428;NA;NA;NA
+562;MIKC-4;A.arenosa_strecno;A.arenosa_strecno_g27273.t1;NA;Adi__jg27273;NA;NA;NA
+561;MIKC-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g13173.t1;NA;Aaa__jg13173;NA;NA;NA
+560;MIKC-3;Capsella_grandiflora;Capsella_grandiflora_Cagra.8874s0001.1.p;NA;Cgr__Cagra.8874s0001.1.p;NA;NA;NA
+559;MIKC-3;A.arenosa_strecno;A.arenosa_strecno_g11428.t1;NA;Adi__jg11428;NA;NA;NA
+558;MIKC-3;A.thaliana;Athaliana_At1g24260_AGL9_MIKC;NA;Ath__AT1G24260;AGL9;AGL9, SEP3;SEPALLATA3
+557;MIKC-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002890717;NA;Aly__XP_002890717;NA;NA;NA
+556;MIKC-3;A.lyrata_petraea;A.lyrata_petraea_g42993.t1;A.lyrata_petraea_jg10776;Ape__jg10776;NA;NA;NA
+555;MIKC-3;A.halleri_halleri;A.halleri_halleri_g14087;NA;Aha__jg14087;NA;NA;NA
+554;MIKC-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g31253.t1;NA;Aaa__jg31253;NA;NA;NA
+553;MIKC-2;Capsella_rubella;Capsella_rubella_XP_006298399.1;NA;Cru__XP_006298399.1;NA;NA;NA
+552;MIKC-2;Capsella_grandiflora;Capsella_grandiflora_Cagra.1194s0071.1.p;NA;Cgr__Cagra.1194s0071.1.p;NA;NA;NA
+551;MIKC-2;A.arenosa_strecno;A.arenosa_strecno_g12117.t1;NA;Adi__jg12117;NA;NA;NA
+550;MIKC-2;A.lyrata_petraea;A.lyrata_petraea_g33648.t1;A.lyrata_petraea_jg25967;Ape__jg25967;NA;NA;NA
+549;MIKC-2;A.halleri_halleri;A.halleri_halleri_g14734;NA;Aha__jg14734;NA;NA;NA
+548;MIKC-2;A.arenosa_MJ09;A.arenosa_MJ09_4_g24046.t1;NA;Aaa__jg24046;NA;NA;NA
+547;MIKC-2;A.thaliana;Athaliana_At3g02310_AGL4_MIKC;NA;Ath__AT3G02310;AGL4;AGL4, SEP2;SEPALLATA 2
+546;MIKC-2;A.lyrata_lyrata;A.lyrata_lyrata_XP_002884314;NA;Aly__XP_002884314;NA;NA;NA
+545;MIKC-1;A.halleri_halleri;A.halleri_halleri_g4163;NA;Aha__jg4163;NA;NA;NA
+544;MIKC-1;Capsella_rubella;Capsella_rubella_XP_006288512.1;NA;Cru__XP_006288512.1;NA;NA;NA
+543;MIKC-1;Capsella_grandiflora;Capsella_grandiflora_Cagra.6845s0024.1.p;NA;Cgr__Cagra.6845s0024.1.p;NA;NA;NA
+542;MIKC-1;A.arenosa_strecno;A.arenosa_strecno_g472.t1;NA;Adi__jg472;NA;NA;NA
+541;MIKC-1;A.lyrata_petraea;A.lyrata_petraea_g1766.t1;A.lyrata_petraea_jg31950;Ape__jg31950;NA;NA;NA
+540;MIKC-1;A.thaliana;Athaliana_At5g15800_AGL2_MIKC;NA;Ath__AT5G15800;AGL2;AGL2, SEP1;SEPALLATA1
+539;MIKC-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_002873742;NA;Aly__XP_002873742;NA;NA;NA
+538;MIKC-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g5403.t1;NA;Aaa__jg5403;NA;NA;NA
+537;Delta-8;Capsella_rubella;Capsella_rubella_XP_023640283.1;NA;Cru__XP_023640283.1;NA;NA;NA
+536;Delta-8;Capsella_rubella;Capsella_rubella_XP_006295879.2;NA;Cru__XP_006295879.2;NA;NA;NA
+535;Delta-8;Capsella_rubella;Capsella_rubella_XP_006296441.2;NA;Cru__XP_006296441.2;NA;NA;NA
+534;Delta-8;A.thaliana;Athaliana_At2g26320_AGL33_none;NA;Ath__AT2G26320;AGL33;AGL33;AGAMOUS-like 33
+533;Delta-8;A.lyrata_lyrata;A.lyrata_lyrata_XP_002870417;NA;Aly__XP_002870417;NA;NA;NA
+532;Delta-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g11903.t1;NA;Aaa__jg11903;NA;NA;NA
+531;Delta-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g17327.t1;NA;Aaa__jg17327;NA;NA;NA
+530;Delta-8;A.lyrata_petraea;A.lyrata_petraea_g13430.t1;A.lyrata_petraea_jg4747;Ape__jg4747;NA;NA;NA
+529;Delta-8;A.lyrata_lyrata;A.lyrata_lyrata_XP_020884452;NA;Aly__XP_020884452;NA;NA;NA
+528;Delta-7;Capsella_rubella;Capsella_rubella_XP_023635573.1;NA;Cru__XP_023635573.1;NA;NA;NA
+527;Delta-7;A.thaliana;Arabidopsis_thaliana_AT4G37435_CIS_BP;NA;Ath__AT4G37435;CIS;NA;NA
+526;Delta-7;A.lyrata_lyrata;A.lyrata_lyrata_XP_020874518;NA;Aly__XP_020874518;NA;NA;NA
+525;Delta-7;A.arenosa_MJ09;A.arenosa_MJ09_4_g8592.t1;NA;Aaa__jg8592;NA;NA;NA
+524;Delta-6;Capsella_rubella;Capsella_rubella_XP_006301191.1;NA;Cru__XP_006301191.1;NA;NA;NA
+523;Delta-6;Capsella_grandiflora;Capsella_grandiflora_Cagra.0096s0037.1.p;NA;Cgr__Cagra.0096s0037.1.p;NA;NA;NA
+522;Delta-6;A.arenosa_strecno;A.arenosa_strecno_g4982.t1;NA;Adi__jg4982;NA;NA;NA
+521;Delta-6;A.thaliana;Athaliana_At1g77980_AGL66_delta;NA;Ath__AT1G77980;AGL66;AGL66;AGAMOUS-like 66
+520;Delta-6;A.halleri_halleri;A.halleri_halleri_g14842;NA;Aha__jg14842;NA;NA;NA
+519;Delta-6;A.arenosa_MJ09;A.arenosa_MJ09_4_g3471.t1;NA;Aaa__jg3471;NA;NA;NA
+518;Delta-6;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889797;NA;Aly__XP_020889797;NA;NA;NA
+517;Delta-6;A.halleri_halleri;A.halleri_halleri_g25058;NA;Aha__jg25058;NA;NA;NA
+516;Delta-5;Capsella_rubella;Capsella_rubella_XP_023644002.1;NA;Cru__XP_023644002.1;NA;NA;NA
+515;Delta-5;Capsella_grandiflora;Capsella_grandiflora_Cagra.0096s0039.1.p;NA;Cgr__Cagra.0096s0039.1.p;NA;NA;NA
+514;Delta-5;A.thaliana;Athaliana_At1g77950_AGL67_delta;NA;Ath__AT1G77950;AGL67;AGL67;AGAMOUS-like 67
+513;Delta-5;A.halleri_halleri;A.halleri_halleri_g14840;NA;Aha__jg14840;NA;NA;NA
+512;Delta-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889727;NA;Aly__XP_020889727;NA;NA;NA
+511;Delta-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_020865771;NA;Aly__XP_020865771;NA;NA;NA
+510;Delta-4;Capsella_rubella;Capsella_rubella_XP_006303516.1;NA;Cru__XP_006303516.1;NA;NA;NA
+509;Delta-4;Capsella_grandiflora;Capsella_grandiflora_Cagra.1707s0007.1.p;NA;Cgr__Cagra.1707s0007.1.p;NA;NA;NA
+508;Delta-4;A.halleri_halleri;A.halleri_halleri_g815;NA;Aha__jg815;NA;NA;NA
+507;Delta-4;A.thaliana;Athaliana_At1g22130_AGL104_delta;NA;Ath__AT1G22130;AGL104;AGL104;AGAMOUS-like 104
+506;Delta-4;A.lyrata_petraea;A.lyrata_petraea_g42438.t1;A.lyrata_petraea_jg10309;Ape__jg10309;NA;NA;NA
+505;Delta-4;A.lyrata_lyrata;A.lyrata_lyrata_XP_002893213;NA;Aly__XP_002893213;NA;NA;NA
+504;Delta-4;A.arenosa_strecno;A.arenosa_strecno_g9031.t1;NA;Adi__jg9031;NA;NA;NA
+503;Delta-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g30773.t1;NA;Aaa__jg30773;NA;NA;NA
+502;Delta-3;Capsella_grandiflora;Capsella_grandiflora_Cagra.4153s0004.1.p;NA;Cgr__Cagra.4153s0004.1.p;NA;NA;NA
+501;Delta-3;Capsella_rubella;Capsella_rubella_XP_006305053.1;NA;Cru__XP_006305053.1;NA;NA;NA
+500;Delta-3;A.arenosa_strecno;A.arenosa_strecno_g10154.t1;NA;Adi__jg10154;NA;NA;NA
+499;Delta-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g30399.t1;NA;Aaa__jg30399;NA;NA;NA
+498;Delta-3;A.thaliana;Athaliana_At1g18750_AGL65_delta;NA;Ath__AT1G18750;AGL65;AGL65;AGAMOUS-like 65
+497;Delta-3;A.halleri_halleri;A.halleri_halleri_g22780;NA;Aha__jg22780;NA;NA;NA
+496;Delta-3;A.halleri_halleri;A.halleri_halleri_g14982;NA;Aha__jg14982;NA;NA;NA
+495;Delta-3;A.lyrata_petraea;A.lyrata_petraea_g41973.t1;A.lyrata_petraea_jg9917;Ape__jg9917;NA;NA;NA
+494;Delta-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002890300;NA;Aly__XP_002890300;NA;NA;NA
+493;Delta-2;A.thaliana;Athaliana_At2g03060_AGL30_delta;NA;Ath__AT2G03060;AGL30;AGL30;AGAMOUS-like 30
+492;Delta-2;Capsella_rubella;Capsella_rubella_XP_023637839.1;NA;Cru__XP_023637839.1;NA;NA;NA
+491;Delta-2;Capsella_grandiflora;Capsella_grandiflora_Cagra.0534s0009.1.p;NA;Cgr__Cagra.0534s0009.1.p;NA;NA;NA
+490;Delta-2;A.arenosa_strecno;A.arenosa_strecno_g27213.t1;NA;Adi__jg27213;NA;NA;NA
+489;Delta-2;A.lyrata_lyrata;A.lyrata_lyrata_XP_020880220;NA;Aly__XP_020880220;NA;NA;NA
+488;Delta-2;A.halleri_halleri;A.halleri_halleri_g25272;NA;Aha__jg25272;NA;NA;NA
+487;Delta-2;A.lyrata_petraea;A.lyrata_petraea_g22506.t1;A.lyrata_petraea_jg14365;Ape__jg14365;NA;NA;NA
+486;Delta-2;A.arenosa_MJ09;A.arenosa_MJ09_4_g13103.t1;NA;Aaa__jg13103;NA;NA;NA
+485;Delta-1;Capsella_rubella;Capsella_rubella_XP_023644134.1;NA;Cru__XP_023644134.1;NA;NA;NA
+484;Delta-1;Capsella_grandiflora;Capsella_grandiflora_Cagra.0887s0001.1.p;NA;Cgr__Cagra.0887s0001.1.p;NA;NA;NA
+483;Delta-1;A.arenosa_strecno;A.arenosa_strecno_g19612.t1;NA;Adi__jg19612;NA;NA;NA
+482;Delta-1;A.halleri_halleri;A.halleri_halleri_g565;NA;Aha__jg565;NA;NA;NA
+481;Delta-1;A.thaliana;Athaliana_At1g69540_AGL94_delta;NA;Ath__AT1G69540;AGL94;AGL94;AGAMOUS-like 94
+480;Delta-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889921;NA;Aly__XP_020889921;NA;NA;NA
+479;Delta-1;A.lyrata_petraea;A.lyrata_petraea_g20670.t1;A.lyrata_petraea_jg24502;Ape__jg24502;NA;NA;NA
+478;Delta-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g2540.t1;NA;Aaa__jg2540;NA;NA;NA
+477;Alpha-18;A.lyrata_lyrata;A.lyrata_lyrata_XP_020883850;NA;Aly__XP_020883850;NA;NA;NA
+476;Alpha-18;A.halleri_halleri;A.halleri_halleri_g21057;NA;Aha__jg21057;NA;NA;NA
+475;Alpha-18;A.arenosa_MJ09;A.arenosa_MJ09_4_g17596.t1;NA;Aaa__jg17596;NA;NA;NA
+474;Alpha-18;A.thaliana;Athaliana_At5g27130_AGL39_alpha;NA;Ath__AT5G27130;AGL39;AGL39;AGAMOUS-like 39
+473;Alpha-18;Capsella_rubella;Capsella_rubella_XP_023637356.1;NA;Cru__XP_023637356.1;NA;NA;NA
+472;Alpha-18;Capsella_grandiflora;Capsella_grandiflora_Cagra.6165s0001.1.p;NA;Cgr__Cagra.6165s0001.1.p;NA;NA;NA
+471;Alpha-18;A.arenosa_MJ09;A.arenosa_MJ09_4_g6748.t1;NA;Aaa__jg6748;NA;NA;NA
+470;Alpha-18;A.arenosa_MJ09;A.arenosa_MJ09_4_g6704.t1;NA;Aaa__jg6704;NA;NA;NA
+469;Alpha-17;Capsella_rubella;Capsella_rubella_XP_023638880.1;NA;Cru__XP_023638880.1;NA;NA;NA
+468;Alpha-17;A.thaliana;Athaliana_At1g48150_AGL74_alpha;NA;Ath__AT1G48150;AGL74;AGL74;AGAMOUS-like 74
+467;Alpha-17;A.lyrata_petraea;A.lyrata_petraea_g24349.t1;A.lyrata_petraea_jg15404;Ape__jg15404;NA;NA;NA
+466;Alpha-17;A.lyrata_lyrata;A.lyrata_lyrata_XP_002877286;NA;Aly__XP_002877286;NA;NA;NA
+465;Alpha-17;A.lyrata_petraea;A.lyrata_petraea_g24408.t1;A.lyrata_petraea_jg15437;Ape__jg15437;NA;NA;NA
+464;Alpha-17;A.lyrata_lyrata;A.lyrata_lyrata_XP_020882147;NA;Aly__XP_020882147;NA;NA;NA
+463;Alpha-17;A.arenosa_strecno;A.arenosa_strecno_g24343.t1;NA;Adi__jg24343;NA;NA;NA
+462;Alpha-17;A.arenosa_strecno;A.arenosa_strecno_g24313.t1;NA;Adi__jg24313;NA;NA;NA
+461;Alpha-17;A.arenosa_MJ09;A.arenosa_MJ09_4_g14068.t1;NA;Aaa__jg14068;NA;NA;NA
+460;Alpha-17;A.arenosa_MJ09;A.arenosa_MJ09_4_g14041.t1;NA;Aaa__jg14041;NA;NA;NA
+459;Alpha-16;A.thaliana;Athaliana_At1g60920_AGL55_alpha;NA;Ath__AT1G60920;AGL55;AGL55;AGAMOUS-like 55
+458;Alpha-16;A.lyrata_lyrata;A.lyrata_lyrata_XP_002886576;NA;Aly__XP_002886576;NA;NA;NA
+457;Alpha-16;A.arenosa_strecno;A.arenosa_strecno_g5446.t1;NA;Adi__jg5446;NA;NA;NA
+456;Alpha-16;A.arenosa_MJ09;A.arenosa_MJ09_4_g889.t1;NA;Aaa__jg889;NA;NA;NA
+455;Alpha-16;Capsella_rubella;Capsella_rubella_XP_006301329.1;NA;Cru__XP_006301329.1;NA;NA;NA
+454;Alpha-16;Capsella_grandiflora;Capsella_grandiflora_Cagra.1216s0008.1.p;NA;Cgr__Cagra.1216s0008.1.p;NA;NA;NA
+453;Alpha-15;Capsella_rubella;Capsella_rubella_XP_006301308.1;NA;Cru__XP_006301308.1;NA;NA;NA
+452;Alpha-15;A.thaliana;Athaliana_At1g60880_AGL56_alpha;NA;Ath__AT1G60880;AGL56;AGL56;AGAMOUS-like-56
+451;Alpha-15;A.halleri_halleri;A.halleri_halleri_g5977;NA;Aha__jg5977;NA;NA;NA
+450;Alpha-15;A.lyrata_petraea;A.lyrata_petraea_g18233.t1;A.lyrata_petraea_jg23024;Ape__jg23024;NA;NA;NA
+449;Alpha-15;A.lyrata_lyrata;A.lyrata_lyrata_XP_002888121;NA;Aly__XP_002888121;NA;NA;NA
+448;Alpha-15;A.arenosa_strecno;A.arenosa_strecno_g5451.t1;NA;Adi__jg5451;NA;NA;NA
+447;Alpha-15;A.arenosa_MJ09;A.arenosa_MJ09_4_g893.t1;NA;Aaa__jg893;NA;NA;NA
+446;Alpha-14;A.arenosa_MJ09;A.arenosa_MJ09_4_g13317.t1;NA;Aaa__jg13317;NA;NA;NA
+445;Alpha-14;A.arenosa_strecno;A.arenosa_strecno_g27390.t1;NA;Adi__jg27390;NA;NA;NA
+444;Alpha-14;A.lyrata_petraea;A.lyrata_petraea_g22791.t1;A.lyrata_petraea_jg14592;Ape__jg14592;NA;NA;NA
+443;Alpha-14;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879779;NA;Aly__XP_020879779;NA;NA;NA
+442;Alpha-14;A.thaliana;Athaliana_At5g04640_AGL99_alpha;NA;Ath__AT5G04640;AGL99;AGL99;AGAMOUS-like 99
+441;Alpha-14;A.arenosa_strecno;A.arenosa_strecno_g9694.t1;NA;Adi__jg9694;NA;NA;NA
+440;Alpha-14;A.halleri_halleri;A.halleri_halleri_g1613;NA;Aha__jg1613;NA;NA;NA
+439;Alpha-14;A.arenosa_MJ09;A.arenosa_MJ09_4_g4213.t1;NA;Aaa__jg4213;NA;NA;NA
+438;Alpha-13;Capsella_rubella;Capsella_rubella_XP_023644286.1;NA;Cru__XP_023644286.1;NA;NA;NA
+437;Alpha-13;Capsella_rubella;Capsella_rubella_XP_023644285.1;NA;Cru__XP_023644285.1;NA;NA;NA
+436;Alpha-13;Capsella_rubella;Capsella_rubella_XP_006296511.1;NA;Cru__XP_006296511.1;NA;NA;NA
+435;Alpha-13;A.thaliana;Athaliana_At1g46408_AGL97_alpha;NA;Ath__AT1G46408;AGL97;AGL97;AGAMOUS-like 97
+434;Alpha-13;A.arenosa_strecno;A.arenosa_strecno_g17019.t1;NA;Adi__jg17019;NA;NA;NA
+433;Alpha-13;A.arenosa_MJ09;A.arenosa_MJ09_4_g14374.t1;NA;Aaa__jg14374;NA;NA;NA
+432;Alpha-13;A.lyrata_lyrata;A.lyrata_lyrata_XP_020880012;NA;Aly__XP_020880012;NA;NA;NA
+431;Alpha-13;A.lyrata_lyrata;A.lyrata_lyrata_XP_020891752;NA;Aly__XP_020891752;NA;NA;NA
+430;Alpha-13;A.lyrata_petraea;A.lyrata_petraea_g20219.t1;A.lyrata_petraea_jg24152;Ape__jg24152;NA;NA;NA
+429;Alpha-13;A.halleri_halleri;A.halleri_halleri_g4416;NA;Aha__jg4416;NA;NA;NA
+428;Alpha-13;A.arenosa_MJ09;A.arenosa_MJ09_4_g2215.t1;NA;Aaa__jg2215;NA;NA;NA
+427;Alpha-13;A.arenosa_strecno;A.arenosa_strecno_g22832.t1;NA;Adi__jg22832;NA;NA;NA
+426;Alpha-13;A.arenosa_strecno;A.arenosa_strecno_g11962.t1;NA;Adi__jg11962;NA;NA;NA
+425;Alpha-12;Capsella_rubella;Capsella_rubella_XP_006284913.2;NA;Cru__XP_006284913.2;NA;NA;NA
+424;Alpha-12;Capsella_grandiflora;Capsella_grandiflora_Cagra.1718s0014.1.p;NA;Cgr__Cagra.1718s0014.1.p;NA;NA;NA
+423;Alpha-12;Capsella_rubella;Capsella_rubella_XP_006281901.1;NA;Cru__XP_006281901.1;NA;NA;NA
+422;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g20743.t1;NA;Adi__jg20743;NA;NA;NA
+421;Alpha-12;A.halleri_halleri;A.halleri_halleri_g18447;NA;Aha__jg18447;NA;NA;NA
+420;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21584.t1;NA;Aaa__jg21584;NA;NA;NA
+419;Alpha-12;A.thaliana;Athaliana_At5g49420_AGL84_alpha;NA;Ath__AT5G49420;AGL84;AGL84;AGAMOUS-like 84
+418;Alpha-12;A.thaliana;Athaliana_At5g38620_AGL73_alpha;NA;Ath__AT5G38620;AGL73;AGL73;AGAMOUS-like 73
+417;Alpha-12;A.thaliana;Athaliana_At5g49490_AGL83_alpha;NA;Ath__AT5G49490;AGL83;AGL83;AGAMOUS-like 83
+416;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21583.t1;NA;Aaa__jg21583;NA;NA;NA
+415;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g19375.t1;NA;Adi__jg19375;NA;NA;NA
+414;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9231.t1;A.lyrata_petraea_jg1538;Ape__jg1538;NA;NA;NA
+413;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020871775;NA;Aly__XP_020871775;NA;NA;NA
+412;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g21626.t1;NA;Adi__jg21626;NA;NA;NA
+411;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9207.t1;A.lyrata_petraea_jg1517;Ape__jg1517;NA;NA;NA
+410;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890208;NA;Aly__XP_020890208;NA;NA;NA
+409;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21534.t1;NA;Aaa__jg21534;NA;NA;NA
+408;Alpha-12;A.halleri_halleri;A.halleri_halleri_g24106;NA;Aha__jg24106;NA;NA;NA
+407;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020877424;NA;Aly__XP_020877424;NA;NA;NA
+406;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9145.t1;A.lyrata_petraea_jg1477;Ape__jg1477;NA;NA;NA
+405;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020872669;NA;Aly__XP_020872669;NA;NA;NA
+404;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020877244;NA;Aly__XP_020877244;NA;NA;NA
+403;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21561.t1;NA;Aaa__jg21561;NA;NA;NA
+402;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g21818.t1;NA;Adi__jg21818;NA;NA;NA
+401;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21600.t1;NA;Aaa__jg21600;NA;NA;NA
+400;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020881008;NA;Aly__XP_020881008;NA;NA;NA
+399;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g15662.t1;NA;Adi__jg15662;NA;NA;NA
+398;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9251.t1;A.lyrata_petraea_jg1551;Ape__jg1551;NA;NA;NA
+397;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9204.t1;A.lyrata_petraea_jg1514;Ape__jg1514;NA;NA;NA
+396;Alpha-12;A.lyrata_petraea;A.lyrata_petraea_g9249.t1;A.lyrata_petraea_jg1549;Ape__jg1549;NA;NA;NA
+395;Alpha-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890264;NA;Aly__XP_020890264;NA;NA;NA
+394;Alpha-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g21558.t1;NA;Aaa__jg21558;NA;NA;NA
+393;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g37847.t1;NA;Adi__jg37847;NA;NA;NA
+392;Alpha-12;A.arenosa_strecno;A.arenosa_strecno_g37838.t1;NA;Adi__jg37838;NA;NA;NA
+391;Alpha-11;Capsella_rubella;Capsella_rubella_XP_006296471.1;NA;Cru__XP_006296471.1;NA;NA;NA
+390;Alpha-11;Capsella_grandiflora;Capsella_grandiflora_Cagra.7352s0007.1.p;NA;Cgr__Cagra.7352s0007.1.p;NA;NA;NA
+389;Alpha-11;A.thaliana;Athaliana_At2g34440_AGL29_alpha;NA;Ath__AT2G34440;AGL29;AGL29;AGAMOUS-like 29
+388;Alpha-11;A.arenosa_strecno;A.arenosa_strecno_g3157.t1;NA;Adi__jg3157;NA;NA;NA
+387;Alpha-11;A.arenosa_MJ09;A.arenosa_MJ09_4_g18546.t1;NA;Aaa__jg18546;NA;NA;NA
+386;Alpha-11;A.lyrata_lyrata;A.lyrata_lyrata_XP_020882747;NA;Aly__XP_020882747;NA;NA;NA
+385;Alpha-11;A.lyrata_petraea;A.lyrata_petraea_g15576.t1;A.lyrata_petraea_jg6051;Ape__jg6051;NA;NA;NA
+384;Alpha-11;A.halleri_halleri;A.halleri_halleri_g2636;NA;Aha__jg2636;NA;NA;NA
+383;Alpha-10;Capsella_rubella;Capsella_rubella_XP_006296625.1;NA;Cru__XP_006296625.1;NA;NA;NA
+382;Alpha-10;Capsella_grandiflora;Capsella_grandiflora_Cagra.0133s0015.1.p;NA;Cgr__Cagra.0133s0015.1.p;NA;NA;NA
+381;Alpha-10;A.thaliana;Athaliana_At3g66656_AGL91_alpha;NA;Ath__AT3G66656;AGL91;AGL91;AGAMOUS-like 91
+380;Alpha-10;A.halleri_halleri;A.halleri_halleri_g32118;NA;Aha__jg32118;NA;NA;NA
+379;Alpha-10;A.halleri_halleri;A.halleri_halleri_g32123;NA;Aha__jg32123;NA;NA;NA
+378;Alpha-10;A.lyrata_petraea;A.lyrata_petraea_g34240.t1;A.lyrata_petraea_jg26526;Ape__jg26526;NA;NA;NA
+377;Alpha-10;A.lyrata_lyrata;A.lyrata_lyrata_XP_002884601;NA;Aly__XP_002884601;NA;NA;NA
+376;Alpha-10;A.arenosa_strecno;A.arenosa_strecno_g14085.t1;NA;Adi__jg14085;NA;NA;NA
+375;Alpha-10;A.arenosa_MJ09;A.arenosa_MJ09_4_g24613.t1;NA;Aaa__jg24613;NA;NA;NA
+374;Alpha-9;Capsella_rubella;Capsella_rubella_XP_006304007.1;NA;Cru__XP_006304007.1;NA;NA;NA
+373;Alpha-9;Capsella_rubella;Capsella_rubella_XP_006295835.1;NA;Cru__XP_006295835.1;NA;NA;NA
+372;Alpha-9;Capsella_rubella;Capsella_rubella_XP_006304928.1;NA;Cru__XP_006304928.1;NA;NA;NA
+371;Alpha-9;Capsella_rubella;Capsella_rubella_XP_006306046.2;NA;Cru__XP_006306046.2;NA;NA;NA
+370;Alpha-9;Capsella_rubella;Capsella_rubella_XP_006304866.1;NA;Cru__XP_006304866.1;NA;NA;NA
+369;Alpha-9;A.thaliana;Athaliana_At1g47760_AGL102_alpha;NA;Ath__AT1G47760;AGL102;AGL102;AGAMOUS-like 102
+368;Alpha-9;A.lyrata_lyrata;A.lyrata_lyrata_XP_002891382;NA;Aly__XP_002891382;NA;NA;NA
+367;Alpha-9;A.arenosa_strecno;A.arenosa_strecno_g1036.t1;NA;Adi__jg1036;NA;NA;NA
+366;Alpha-9;A.lyrata_petraea;A.lyrata_petraea_g45961.t1;A.lyrata_petraea_jg12381;Ape__jg12381;NA;NA;NA
+365;Alpha-9;A.arenosa_MJ09;A.arenosa_MJ09_4_g32816.t1;NA;Aaa__jg32816;NA;NA;NA
+364;Alpha-9;A.lyrata_lyrata;A.lyrata_lyrata_XP_002891385;NA;Aly__XP_002891385;NA;NA;NA
+363;Alpha-9;A.halleri_halleri;A.halleri_halleri_g29987;NA;Aha__jg29987;NA;NA;NA
+362;Alpha-9;A.lyrata_petraea;A.lyrata_petraea_g45971.t1;A.lyrata_petraea_jg12387;Ape__jg12387;NA;NA;NA
+361;Alpha-9;A.arenosa_strecno;A.arenosa_strecno_g1038.t1;NA;Adi__jg1038;NA;NA;NA
+360;Alpha-9;A.arenosa_MJ09;A.arenosa_MJ09_4_g32821.t1;NA;Aaa__jg32821;NA;NA;NA
+359;Alpha-9;A.arenosa_strecno;A.arenosa_strecno_g1037.t1;NA;Adi__jg1037;NA;NA;NA
+358;Alpha-9;A.arenosa_MJ09;A.arenosa_MJ09_4_g32819.t1;NA;Aaa__jg32819;NA;NA;NA
+357;Alpha-9;A.halleri_halleri;A.halleri_halleri_g30004;NA;Aha__jg30004;NA;NA;NA
+356;Alpha-9;A.lyrata_petraea;A.lyrata_petraea_g45964.t1;A.lyrata_petraea_jg12382;Ape__jg12382;NA;NA;NA
+355;Alpha-9;A.lyrata_lyrata;A.lyrata_lyrata_XP_002891383;NA;Aly__XP_002891383;NA;NA;NA
+354;Alpha-8;Capsella_rubella;Capsella_rubella_XP_006300167.2;NA;Cru__XP_006300167.2;NA;NA;NA
+353;Alpha-8;Capsella_grandiflora;Capsella_grandiflora_Cagra.4031s0057.1.p;NA;Cgr__Cagra.4031s0057.1.p;NA;NA;NA
+352;Alpha-8;A.thaliana;Athaliana_At3g04100_AGL57_alpha;NA;Ath__AT3G04100;AGL57;AGL57;AGAMOUS-like 57
+351;Alpha-8;A.thaliana;Athaliana_At2g11990_AGL88_alpha;NA;Ath__AT2G11990;AGL88;AGL88;AGAMOUS-like 88
+350;Alpha-8;A.lyrata_petraea;A.lyrata_petraea_g33888.t1;A.lyrata_petraea_jg26194;Ape__jg26194;NA;NA;NA
+349;Alpha-8;A.lyrata_lyrata;A.lyrata_lyrata_XP_002882329;NA;Aly__XP_002882329;NA;NA;NA
+348;Alpha-8;A.arenosa_strecno;A.arenosa_strecno_g14926.t1;NA;Adi__jg14926;NA;NA;NA
+347;Alpha-8;A.halleri_halleri;A.halleri_halleri_g15977;NA;Aha__jg15977;NA;NA;NA
+346;Alpha-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g24273.t1;NA;Aaa__jg24273;NA;NA;NA
+345;Alpha-7b;A.arenosa_MJ09;A.arenosa_MJ09_4_g14342.t1;NA;Aaa__jg14342;NA;NA;NA
+344;Alpha-7b;A.lyrata_petraea;A.lyrata_petraea_g24993.t1;A.lyrata_petraea_jg15764;Ape__jg15764;NA;NA;NA
+343;Alpha-7b;A.lyrata_lyrata;A.lyrata_lyrata_XP_002875741;NA;Aly__XP_002875741;NA;NA;NA
+342;Alpha-7a;A.thaliana;Athaliana_At1g29960_AGL64_alpha;NA;Ath__AT1G29962;AGL64;AGL64;AGAMOUS-like 64
+341;Alpha-7a;A.thaliana;Athaliana_At1g28460_AGL59_alpha;NA;Ath__AT1G28460;AGL59;AGL59;AGAMOUS-like 59
+340;Alpha-7a;A.thaliana;Athaliana_At1g28450_AGL58_alpha;NA;Ath__AT1G28450;AGL58;AGL58;AGAMOUS-like 58
+339;Alpha-7a;A.thaliana;Athaliana_At1g54760_AGL85_alpha;NA;Ath__AT1G54760;AGL85;AGL85;AGAMOUS-like 85
+338;Alpha-7a;A.arenosa_strecno;A.arenosa_strecno_g33186.t1;NA;Adi__jg33186;NA;NA;NA
+337;Alpha-7a;A.arenosa_MJ09;A.arenosa_MJ09_4_g31539.t1;NA;Aaa__jg31539;NA;NA;NA
+336;Alpha-7a;A.halleri_halleri;A.halleri_halleri_g6218;NA;Aha__jg6218;NA;NA;NA
+335;Alpha-7a;A.lyrata_petraea;A.lyrata_petraea_g43364.t1;A.lyrata_petraea_jg11086;Ape__jg11086;NA;NA;NA
+334;Alpha-7a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020867367;NA;Aly__XP_020867367;NA;NA;NA
+333;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006305697.1;NA;Cru__XP_006305697.1;NA;NA;NA
+332;Alpha-7a;Capsella_grandiflora;Capsella_grandiflora_Cagra.12398s0004.1.p;NA;Cgr__Cagra.12398s0004.1.p;NA;NA;NA
+331;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006305700.1;NA;Cru__XP_006305700.1;NA;NA;NA
+330;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006306337.1;NA;Cru__XP_006306337.1;NA;NA;NA
+329;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006303496.1;NA;Cru__XP_006303496.1;NA;NA;NA
+328;Alpha-7a;Capsella_grandiflora;Capsella_grandiflora_Cagra.18025s0001.1.p;NA;Cgr__Cagra.18025s0001.1.p;NA;NA;NA
+327;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006289244.1;NA;Cru__XP_006289244.1;NA;NA;NA
+326;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006289227.1;NA;Cru__XP_006289227.1;NA;NA;NA
+325;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006305962.1;NA;Cru__XP_006305962.1;NA;NA;NA
+324;Alpha-7a;Capsella_grandiflora;Capsella_grandiflora_Cagra.5647s0017.1.p;NA;Cgr__Cagra.5647s0017.1.p;NA;NA;NA
+323;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006301053.1;NA;Cru__XP_006301053.1;NA;NA;NA
+322;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006300349.1;NA;Cru__XP_006300349.1;NA;NA;NA
+321;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006303116.2;NA;Cru__XP_006303116.2;NA;NA;NA
+320;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006300973.2;NA;Cru__XP_006300973.2;NA;NA;NA
+319;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006301671.1;NA;Cru__XP_006301671.1;NA;NA;NA
+318;Alpha-7a;Capsella_rubella;Capsella_rubella_XP_006301316.1;NA;Cru__XP_006301316.1;NA;NA;NA
+317;Alpha-6;Capsella_rubella;Capsella_rubella_XP_006305901.1;NA;Cru__XP_006305901.1;NA;NA;NA
+316;Alpha-6;Capsella_grandiflora;Capsella_grandiflora_Cagra.0824s0100.1.p;NA;Cgr__Cagra.0824s0100.1.p;NA;NA;NA
+315;Alpha-6;A.thaliana;Athaliana_At1g17310_AGL100_alpha;NA;Ath__AT1G17310;AGL100;AGL100;AGAMOUS-like 100
+314;Alpha-6;A.lyrata_petraea;A.lyrata_petraea_g41803.t1;A.lyrata_petraea_jg9755;Ape__jg9755;NA;NA;NA
+313;Alpha-6;A.lyrata_lyrata;A.lyrata_lyrata_XP_002892945;NA;Aly__XP_002892945;NA;NA;NA
+312;Alpha-6;A.arenosa_strecno;A.arenosa_strecno_g10285.t1;NA;Adi__jg10285;NA;NA;NA
+311;Alpha-6;A.halleri_halleri;A.halleri_halleri_g14878;NA;Aha__jg14878;NA;NA;NA
+310;Alpha-6;A.arenosa_MJ09;A.arenosa_MJ09_4_g30256.t1;NA;Aaa__jg30256;NA;NA;NA
+309;Alpha-5;Capsella_rubella;Capsella_rubella_XP_006301410.1;NA;Cru__XP_006301410.1;NA;NA;NA
+308;Alpha-5;Capsella_grandiflora;Capsella_grandiflora_Cagra.1013s0063.1.p;NA;Cgr__Cagra.1013s0063.1.p;NA;NA;NA
+307;Alpha-5;A.thaliana;Athaliana_At1g72350_AGL60_alpha;NA;Ath__AT1G72350;AGL60;AGL60;AGAMOUS-like 60
+306;Alpha-5;A.lyrata_petraea;A.lyrata_petraea_g21038.t1;A.lyrata_petraea_jg24828;Ape__jg24828;NA;NA;NA
+305;Alpha-5;A.halleri_halleri;A.halleri_halleri_g3126;NA;Aha__jg3126;NA;NA;NA
+304;Alpha-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_002888870;NA;Aly__XP_002888870;NA;NA;NA
+303;Alpha-5;A.arenosa_strecno;A.arenosa_strecno_g4432.t1;NA;Adi__jg4432;NA;NA;NA
+302;Alpha-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g2870.t1;NA;Aaa__jg2870;NA;NA;NA
+301;Alpha-4;A.lyrata_petraea;A.lyrata_petraea_g12801.t1;A.lyrata_petraea_jg4425;Ape__jg4425;NA;NA;NA
+300;Alpha-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g17009.t1;NA;Aaa__jg17009;NA;NA;NA
+299;Alpha-4;Capsella_rubella;Capsella_rubella_XP_006295790.1;NA;Cru__XP_006295790.1;NA;NA;NA
+298;Alpha-4;Capsella_grandiflora;Capsella_grandiflora_Cagra.1004s0007.1.p;NA;Cgr__Cagra.1004s0007.1.p;NA;NA;NA
+297;Alpha-4;A.thaliana;Athaliana_At2g24840_AGL61_alpha;NA;Ath__AT2G24840;AGL61;AGL61, DIA;DIANA
+296;Alpha-4;A.lyrata_lyrata;A.lyrata_lyrata_XP_020883034;NA;Aly__XP_020883034;NA;NA;NA
+295;Alpha-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g17021.t1;NA;Aaa__jg17021;NA;NA;NA
+294;Alpha-4;A.arenosa_strecno;A.arenosa_strecno_g31330.t1;NA;Adi__jg31330;NA;NA;NA
+293;Alpha-4;A.lyrata_petraea;A.lyrata_petraea_g12808.t1;A.lyrata_petraea_jg4431;Ape__jg4431;NA;NA;NA
+292;Alpha-4;A.halleri_halleri;A.halleri_halleri_g14196;NA;Aha__jg14196;NA;NA;NA
+291;Alpha-3;Capsella_rubella;Capsella_rubella_XP_006282294.1;NA;Cru__XP_006282294.1;NA;NA;NA
+290;Alpha-3;Capsella_grandiflora;Capsella_grandiflora_Cagra.2519s0016.1.p;NA;Cgr__Cagra.2519s0016.1.p;NA;NA;NA
+289;Alpha-3;A.thaliana;Athaliana_At5g60440_AGL62_alpha;NA;Ath__AT5G60440;AGL62;AGL62;AGAMOUS-like 62
+288;Alpha-3;A.arenosa_strecno;A.arenosa_strecno_g2088.t1;NA;Adi__jg2088;NA;NA;NA
+287;Alpha-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g22984.t1;NA;Aaa__jg22984;NA;NA;NA
+286;Alpha-3;A.halleri_halleri;A.halleri_halleri_g2151;NA;Aha__jg2151;NA;NA;NA
+285;Alpha-3;A.lyrata_petraea;A.lyrata_petraea_g10922.t1;A.lyrata_petraea_jg2919;Ape__jg2919;NA;NA;NA
+284;Alpha-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002864686;NA;Aly__XP_002864686;NA;NA;NA
+283;Alpha-3;A.halleri_halleri;A.halleri_halleri_g18243;NA;Aha__jg18243;NA;NA;NA
+282;Alpha-2;Capsella_rubella;Capsella_rubella_XP_006286101.1;NA;Cru__XP_006286101.1;NA;NA;NA
+281;Alpha-2;Capsella_grandiflora;Capsella_grandiflora_Cagra.1695s0023.1.p;NA;Cgr__Cagra.1695s0023.1.p;NA;NA;NA
+280;Alpha-2;A.thaliana;Athaliana_At4g36590_AGL40_alpha;NA;Ath__AT4G36590;AGL40;AGL40;AGAMOUS-like 40
+279;Alpha-2;A.lyrata_petraea;A.lyrata_petraea_g27958.t1;A.lyrata_petraea_jg18383;Ape__jg18383;NA;NA;NA
+278;Alpha-2;A.lyrata_lyrata;A.lyrata_lyrata_XP_020875559;NA;Aly__XP_020875559;NA;NA;NA
+277;Alpha-2;A.halleri_halleri;A.halleri_halleri_g6689;NA;Aha__jg6689;NA;NA;NA
+276;Alpha-2;A.arenosa_strecno;A.arenosa_strecno_g29119.t1;NA;Adi__jg29119;NA;NA;NA
+275;Alpha-2;A.arenosa_MJ09;A.arenosa_MJ09_4_g8679.t1;NA;Aaa__jg8679;NA;NA;NA
+274;Alpha-1;Capsella_rubella;Capsella_rubella_XP_006304156.1;NA;Cru__XP_006304156.1;NA;NA;NA
+273;Alpha-1;Capsella_grandiflora;Capsella_grandiflora_Cagra.1968s0094.1.p;NA;Cgr__Cagra.1968s0094.1.p;NA;NA;NA
+272;Alpha-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_020891569;NA;Aly__XP_020891569;NA;NA;NA
+271;Alpha-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g2104.t1;NA;Aaa__jg2104;NA;NA;NA
+270;Alpha-1;A.lyrata_petraea;A.lyrata_petraea_g20047.t1;A.lyrata_petraea_jg24047;Ape__jg24047;NA;NA;NA
+269;Alpha-1;A.arenosa_strecno;A.arenosa_strecno_g24912.t1;NA;Adi__jg24912;NA;NA;NA
+268;Alpha-1;A.thaliana;Athaliana_At1g65360_AGL23_alpha;NA;Ath__AT1G65360;AGL23;AGL23;AGAMOUS-like 23
+267;Alpha-1;A.thaliana;Athaliana_At1g01530_AGL28_alpha;NA;Ath__AT1G01530;AGL28;AGL28;AGAMOUS-like 28
+266;Alpha-1;A.arenosa_strecno;A.arenosa_strecno_g27579.t1;NA;Adi__jg27579;NA;NA;NA
+265;Alpha-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g28468.t1;NA;Aaa__jg28468;NA;NA;NA
+264;Alpha-1;A.halleri_halleri;A.halleri_halleri_g22121;NA;Aha__jg22121;NA;NA;NA
+263;Alpha-1;A.lyrata_petraea;A.lyrata_petraea_g39810.t1;A.lyrata_petraea_jg7901;Ape__jg7901;NA;NA;NA
+262;Alpha-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_002889362;NA;Aly__XP_002889362;NA;NA;NA
+261;Beta-7;Capsella_rubella;Capsella_rubella_XP_006281804.1;NA;Cru__XP_006281804.1;NA;NA;NA
+260;Beta-7;Capsella_grandiflora;Capsella_grandiflora_Cagra.0891s0086.1.p;NA;Cgr__Cagra.0891s0086.1.p;NA;NA;NA
+259;Beta-7;A.thaliana;Athaliana_At5g58890_AGL82_beta;NA;Ath__AT5G58890;AGL82;AGL82;AGAMOUS-like 82
+258;Beta-7;A.halleri_halleri;A.halleri_halleri_g28187;NA;Aha__jg28187;NA;NA;NA
+257;Beta-7;A.arenosa_strecno;A.arenosa_strecno_g10777.t1;NA;Adi__jg10777;NA;NA;NA
+256;Beta-7;A.arenosa_MJ09;A.arenosa_MJ09_4_g22806.t1;NA;Aaa__jg22806;NA;NA;NA
+255;Beta-7;A.lyrata_petraea;A.lyrata_petraea_g10731.t1;A.lyrata_petraea_jg2753;Ape__jg2753;NA;NA;NA
+254;Beta-7;A.lyrata_lyrata;A.lyrata_lyrata_XP_002864598;NA;Aly__XP_002864598;NA;NA;NA
+253;Beta-6;Capsella_rubella;Capsella_rubella_XP_006281480.1;NA;Cru__XP_006281480.1;NA;NA;NA
+252;Beta-6;Capsella_grandiflora;Capsella_grandiflora_Cagra.6942s0024.1.p;NA;Cgr__Cagra.6942s0024.1.p;NA;NA;NA
+251;Beta-6;A.thaliana;Athaliana_At5g55690_AGL47_beta;NA;Ath__AT5G55690;AGL47;AGL47;AGAMOUS-like 47
+250;Beta-6;A.halleri_halleri;A.halleri_halleri_g4890;NA;Aha__jg4890;NA;NA;NA
+249;Beta-6;A.lyrata_petraea;A.lyrata_petraea_g10272.t1;A.lyrata_petraea_jg2351;Ape__jg2351;NA;NA;NA
+248;Beta-6;A.arenosa_strecno;A.arenosa_strecno_g11116.t1;NA;Adi__jg11116;NA;NA;NA
+247;Beta-6;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879548;NA;Aly__XP_020879548;NA;NA;NA
+246;Beta-6;A.arenosa_MJ09;A.arenosa_MJ09_4_g22405.t1;NA;Aaa__jg22405;NA;NA;NA
+245;Beta-6;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890320;NA;Aly__XP_020890320;NA;NA;NA
+244;Beta-5;A.arenosa_strecno;A.arenosa_strecno_g5582.t1;NA;Adi__jg5582;NA;NA;NA
+243;Beta-5;A.lyrata_petraea;A.lyrata_petraea_g18414.t1;A.lyrata_petraea_jg23152;Ape__jg23152;NA;NA;NA
+242;Beta-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g1023.t1;NA;Aaa__jg1023;NA;NA;NA
+241;Beta-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g1024.t1;NA;Aaa__jg1024;NA;NA;NA
+240;Beta-5;A.halleri_halleri;A.halleri_halleri_g24887;NA;Aha__jg24887;NA;NA;NA
+239;Beta-5;A.halleri_halleri;A.halleri_halleri_g5375;NA;Aha__jg5375;NA;NA;NA
+238;Beta-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_002888172;NA;Aly__XP_002888172;NA;NA;NA
+237;Beta-5;A.thaliana;Athaliana_At1g60040_AGL49_beta;NA;Ath__AT1G60040;AGL49;AGL49;AGAMOUS-like 49
+236;Beta-5;A.thaliana;Athaliana_At1g59810_AGL50_beta;NA;Ath__AT1G59810;AGL50;AGL50;AGAMOUS-like 50
+235;Beta-5;Capsella_rubella;Capsella_rubella_XP_006301772.2;NA;Cru__XP_006301772.2;NA;NA;NA
+234;Beta-5;Capsella_grandiflora;Capsella_grandiflora_Cagra.5017s0002.1.p;NA;Cgr__Cagra.5017s0002.1.p;NA;NA;NA
+233;Beta-5;A.lyrata_petraea;A.lyrata_petraea_g18412.t1;A.lyrata_petraea_jg23150;Ape__jg23150;NA;NA;NA
+232;Beta-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g1021.t1;NA;Aaa__jg1021;NA;NA;NA
+231;Beta-5;A.arenosa_strecno;A.arenosa_strecno_g25956.t1;NA;Adi__jg25956;NA;NA;NA
+230;Beta-5;A.lyrata_petraea;A.lyrata_petraea_g4728.t1;A.lyrata_petraea_jg33837;Ape__jg33837;NA;NA;NA
+229;Beta-5;A.halleri_halleri;A.halleri_halleri_g13487;NA;Aha__jg13487;NA;NA;NA
+228;Beta-5;A.arenosa_strecno;A.arenosa_strecno_g5600.t1;NA;Adi__jg5600;NA;NA;NA
+227;Beta-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g1060.t1;NA;Aaa__jg1060;NA;NA;NA
+226;Beta-5;A.halleri_halleri;A.halleri_halleri_g4779;NA;Aha__jg4779;NA;NA;NA
+225;Beta-5;A.lyrata_petraea;A.lyrata_petraea_g18474.t1;A.lyrata_petraea_jg23180;Ape__jg23180;NA;NA;NA
+224;Beta-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890336;NA;Aly__XP_020890336;NA;NA;NA
+223;Beta-4;Capsella_rubella;Capsella_rubella_XP_006299790.2;NA;Cru__XP_006299790.2;NA;NA;NA
+222;Beta-4;Capsella_grandiflora;Capsella_grandiflora_Cagra.1681s0033.1.p;NA;Cgr__Cagra.1681s0033.1.p;NA;NA;NA
+221;Beta-4;A.thaliana;Athaliana_At3g18650_AGL103_beta;NA;Ath__AT3G18650;AGL103;AGL103;AGAMOUS-like 103
+220;Beta-4;A.arenosa_strecno;A.arenosa_strecno_g7591.t1;NA;Adi__jg7591;NA;NA;NA
+219;Beta-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g25996.t1;NA;Aaa__jg25996;NA;NA;NA
+218;Beta-4;A.halleri_halleri;A.halleri_halleri_g25803;NA;Aha__jg25803;NA;NA;NA
+217;Beta-4;A.lyrata_petraea;A.lyrata_petraea_g35750.t1;A.lyrata_petraea_jg27905;Ape__jg27905;NA;NA;NA
+216;Beta-4;A.lyrata_lyrata;A.lyrata_lyrata_XP_002885269;NA;Aly__XP_002885269;NA;NA;NA
+215;Beta-3;Capsella_rubella;Capsella_rubella_XP_006290077.2;NA;Cru__XP_006290077.2;NA;NA;NA
+214;Beta-3;Capsella_rubella;Capsella_rubella_XP_006290011.1;NA;Cru__XP_006290011.1;NA;NA;NA
+213;Beta-3;Capsella_grandiflora;Capsella_grandiflora_Cagra.29077s0001.1.p;NA;Cgr__Cagra.29077s0001.1.p;NA;NA;NA
+212;Beta-3;A.arenosa_strecno;A.arenosa_strecno_g12931.t1;NA;Adi__jg12931;NA;NA;NA
+211;Beta-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6712.t1;NA;Aaa__jg6712;NA;NA;NA
+210;Beta-3;A.lyrata_petraea;A.lyrata_petraea_g3481.t1;A.lyrata_petraea_jg33305;Ape__jg33305;NA;NA;NA
+209;Beta-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002874408;NA;Aly__XP_002874408;NA;NA;NA
+208;Beta-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002874407;NA;Aly__XP_002874407;NA;NA;NA
+207;Beta-3;A.lyrata_petraea;A.lyrata_petraea_g3297.t1;A.lyrata_petraea_jg33191;Ape__jg33191;NA;NA;NA
+206;Beta-3;A.halleri_halleri;A.halleri_halleri_g10482;NA;Aha__jg10482;NA;NA;NA
+205;Beta-3;A.arenosa_strecno;A.arenosa_strecno_g12933.t1;NA;Adi__jg12933;NA;NA;NA
+204;Beta-3;A.arenosa_strecno;A.arenosa_strecno_g12843.t1;NA;Adi__jg12843;NA;NA;NA
+203;Beta-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6600.t1;NA;Aaa__jg6600;NA;NA;NA
+202;Beta-3;A.halleri_halleri;A.halleri_halleri_g17891;NA;Aha__jg17891;NA;NA;NA
+201;Beta-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_002872250;NA;Aly__XP_002872250;NA;NA;NA
+200;Beta-3;A.halleri_halleri;A.halleri_halleri_g4247;NA;Aha__jg4247;NA;NA;NA
+199;Beta-3;A.lyrata_petraea;A.lyrata_petraea_g3296.t1;A.lyrata_petraea_jg33190;Ape__jg33190;NA;NA;NA
+198;Beta-3;A.halleri_halleri;A.halleri_halleri_g26750;NA;Aha__jg26750;NA;NA;NA
+197;Beta-3;A.lyrata_petraea;A.lyrata_petraea_g3479.t1;A.lyrata_petraea_jg33304;Ape__jg33304;NA;NA;NA
+196;Beta-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6710.t1;NA;Aaa__jg6710;NA;NA;NA
+195;Beta-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6598.t1;NA;Aaa__jg6598;NA;NA;NA
+194;Beta-3;A.thaliana;Arabidopsis_thaliana_AT5G26865_CIS_BP;NA;Ath__AT5G26865;CIS;NA;NA
+193;Beta-3;A.thaliana;Athaliana_At5g27580_AGL89_beta;NA;Ath__AT5G27580;AGL89;AGL89;AGAMOUS-like 89
+192;Beta-3;A.thaliana;Athaliana_At5g27050_AGL101_beta;NA;Ath__AT5G27050;AGL101;AGL101;AGAMOUS-like 101
+191;Beta-3;A.thaliana;Arabidopsis_thaliana_AT5G27944_CIS_BP;NA;Ath__AT5G27944;CIS;NA;NA
+190;Beta-3;A.thaliana;Athaliana_At5g27090_AGL54_beta;NA;Ath__AT5G27090;AGL54;AGL54;AGAMOUS-like 54
+189;Beta-3;A.thaliana;Athaliana_At5g27070_AGL53_beta;NA;Ath__AT5G27070;AGL53;AGL53;AGAMOUS-like 53
+188;Beta-3;A.thaliana;Athaliana_At5g26950_AGL93_beta;NA;Ath__AT5G26950;AGL93;AGL93;AGAMOUS-like 93
+187;Beta-2;Capsella_rubella;Capsella_rubella_XP_023633447.1;NA;Cru__XP_023633447.1;NA;NA;NA
+186;Beta-2;A.thaliana;Athaliana_At5g65330_AGL78_beta;NA;Ath__AT5G65330;AGL78;AGL78;AGAMOUS-like 78
+185;Beta-2;A.thaliana;Athaliana_At4g11250_AGL52_beta;NA;Ath__AT4G11250;AGL52;AGL52;AGAMOUS-like 52
+184;Beta-2;A.thaliana;Athaliana_At4g02235_AGL51_beta;NA;Ath__AT4G02235;AGL51;AGL51;AGAMOUS-like 51
+183;Beta-2;A.arenosa_strecno;A.arenosa_strecno_g2610.t1;NA;Adi__jg2610;NA;NA;NA
+182;Beta-2;A.arenosa_MJ09;A.arenosa_MJ09_4_g23546.t1;NA;Aaa__jg23546;NA;NA;NA
+181;Beta-2;A.halleri_halleri;A.halleri_halleri_g1983;NA;Aha__jg1983;NA;NA;NA
+180;Beta-2;A.lyrata_petraea;A.lyrata_petraea_g11579.t1;A.lyrata_petraea_jg3523;Ape__jg3523;NA;NA;NA
+179;Beta-2;A.lyrata_lyrata;A.lyrata_lyrata_XP_002864952;NA;Aly__XP_002864952;NA;NA;NA
+178;Beta-1;Capsella_rubella;Capsella_rubella_XP_023635052.1;NA;Cru__XP_023635052.1;NA;NA;NA
+177;Beta-1;Capsella_rubella;Capsella_rubella_XP_006285278.2;NA;Cru__XP_006285278.2;NA;NA;NA
+176;Beta-1;Capsella_rubella;Capsella_rubella_XP_006282518.2;NA;Cru__XP_006282518.2;NA;NA;NA
+175;Beta-1;Capsella_rubella;Capsella_rubella_XP_006299208.2;NA;Cru__XP_006299208.2;NA;NA;NA
+174;Beta-1;Capsella_rubella;Capsella_rubella_XP_006282935.2;NA;Cru__XP_006282935.2;NA;NA;NA
+173;Beta-1;A.thaliana;Athaliana_At5g37415.1_AGL105_beta;NA;Ath__AT5G37415;AGL105;AGL105;AGAMOUS-like 105
+172;Beta-1;A.thaliana;Athaliana_At5g39810_AGL98_beta;NA;Ath__AT5G39810;AGL98;AGL98;AGAMOUS-like 98
+171;Beta-1;A.thaliana;Athaliana_At5g39750_AGL81_beta;NA;Ath__AT5G39750;AGL81;AGL81, EMB3008;AGAMOUS-like 81
+170;Beta-1;A.thaliana;Athaliana_At5g38740_AGL77_beta;NA;Ath__AT5G38740;AGL77;AGL77;AGAMOUS-like 77
+169;Beta-1;A.thaliana;Athaliana_At5g40120_AGL76_beta;NA;Ath__AT5G40120;AGL76;AGL76;AGAMOUS-like 76
+168;Beta-1;A.thaliana;Athaliana_At5g41200_AGL75_beta;NA;Ath__AT5G41200;AGL75;AGL75;AGAMOUS-like 75
+167;Beta-1;A.thaliana;Athaliana_At5g40220_AGL43_beta;NA;Ath__AT5G40220;AGL43;AGL43;AGAMOUS-like 43
+166;Beta-1;A.halleri_halleri;A.halleri_halleri_g27485;NA;Aha__jg27485;NA;NA;NA
+165;Beta-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g12556.t1;NA;Aaa__jg12556;NA;NA;NA
+164;Beta-1;A.lyrata_petraea;A.lyrata_petraea_g32880.t1;A.lyrata_petraea_jg22153;Ape__jg22153;NA;NA;NA
+163;Beta-1;A.arenosa_strecno;A.arenosa_strecno_g24883.t1;NA;Adi__jg24883;NA;NA;NA
+162;Beta-1;A.lyrata_petraea;A.lyrata_petraea_g32801.t1;A.lyrata_petraea_jg22099;Ape__jg22099;NA;NA;NA
+161;Beta-1;A.lyrata_petraea;A.lyrata_petraea_g32896.t1;A.lyrata_petraea_jg22165;Ape__jg22165;NA;NA;NA
+160;Beta-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_020872955;NA;Aly__XP_020872955;NA;NA;NA
+159;Beta-1;A.lyrata_lyrata;A.lyrata_lyrata_XP_002870726;NA;Aly__XP_002870726;NA;NA;NA
+158;Beta-1;A.halleri_halleri;A.halleri_halleri_g17580;NA;Aha__jg17580;NA;NA;NA
+157;Beta-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g12611.t1;NA;Aaa__jg12611;NA;NA;NA
+156;Beta-1;A.arenosa_strecno;A.arenosa_strecno_g24878.t1;NA;Adi__jg24878;NA;NA;NA
+155;Beta-1;A.arenosa_strecno;A.arenosa_strecno_g25598.t1;NA;Adi__jg25598;NA;NA;NA
+154;Beta-1;A.arenosa_MJ09;A.arenosa_MJ09_4_g12549.t1;NA;Aaa__jg12549;NA;NA;NA
+153;Gamma-13;Capsella_rubella;Capsella_rubella_XP_023637685.1;NA;Cru__XP_023637685.1;NA;NA;NA
+152;Gamma-13;Capsella_rubella;Capsella_rubella_XP_023644501.1;NA;Cru__XP_023644501.1;NA;NA;NA
+151;Gamma-13;Capsella_rubella;Capsella_rubella_XP_023636118.1;NA;Cru__XP_023636118.1;NA;NA;NA
+150;Gamma-13;A.thaliana;Athaliana_At5g06500_AGL96_gamma;NA;Ath__AT5G06500;AGL96;AGL96;AGAMOUS-like 96
+149;Gamma-13;A.halleri_halleri;A.halleri_halleri_g12758;NA;Aha__jg12758;NA;NA;NA
+148;Gamma-13;A.arenosa_MJ09;A.arenosa_MJ09_4_g4429.t1;NA;Aaa__jg4429;NA;NA;NA
+147;Gamma-13;A.arenosa_strecno;A.arenosa_strecno_g9504.t1;NA;Adi__jg9504;NA;NA;NA
+146;Gamma-13;A.lyrata_petraea;A.lyrata_petraea_g718.t1;A.lyrata_petraea_jg30969;Ape__jg30969;NA;NA;NA
+145;Gamma-13;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879043;NA;Aly__XP_020879043;NA;NA;NA
+144;Gamma-12;A.arenosa_MJ09;A.arenosa_MJ09_4_g27016.t1;NA;Aaa__jg27016;NA;NA;NA
+143;Gamma-12;A.arenosa_strecno;A.arenosa_strecno_g16864.t1;NA;Adi__jg16864;NA;NA;NA
+142;Gamma-12;A.lyrata_petraea;A.lyrata_petraea_g37074.t1;A.lyrata_petraea_jg28923;Ape__jg28923;NA;NA;NA
+141;Gamma-12;A.lyrata_lyrata;A.lyrata_lyrata_XP_020886138;NA;Aly__XP_020886138;NA;NA;NA
+140;Gamma-12;A.halleri_halleri;A.halleri_halleri_g12141;NA;Aha__jg12141;NA;NA;NA
+139;Gamma-11;Capsella_rubella;Capsella_rubella_XP_006299246.2;NA;Cru__XP_006299246.2;NA;NA;NA
+138;Gamma-11;A.thaliana;Athaliana_At2g15660_AGL95_gamma;NA;Ath__AT2G15660;AGL95;AGL95;AGAMOUS-like 95
+137;Gamma-11;A.halleri_halleri;A.halleri_halleri_g18943;NA;Aha__jg18943;NA;NA;NA
+136;Gamma-11;A.arenosa_strecno;A.arenosa_strecno_g38229.t1;NA;Adi__jg38229;NA;NA;NA
+135;Gamma-10;Capsella_grandiflora;Capsella_grandiflora_Cagra.0016s0005.1.p;NA;Cgr__Cagra.0016s0005.1.p;NA;NA;NA
+134;Gamma-10;A.halleri_halleri;A.halleri_halleri_g13837;NA;Aha__jg13837;NA;NA;NA
+133;Gamma-10;A.arenosa_strecno;A.arenosa_strecno_g16636.t1;NA;Adi__jg16636;NA;NA;NA
+132;Gamma-10;A.lyrata_petraea;A.lyrata_petraea_g36658.t1;A.lyrata_petraea_jg28651;Ape__jg28651;NA;NA;NA
+131;Gamma-10;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889440;NA;Aly__XP_020889440;NA;NA;NA
+130;Gamma-9b;A.thaliana;Athaliana_At2g26880_AGL41_gamma;NA;Ath__AT2G26880;AGL41;AGL41;AGAMOUS-like 41
+129;Gamma-9b;A.halleri_halleri;A.halleri_halleri_g27100;NA;Aha__jg27100;NA;NA;NA
+128;Gamma-9b;A.arenosa_MJ09;A.arenosa_MJ09_4_g17533.t1;NA;Aaa__jg17533;NA;NA;NA
+127;Gamma-9b;Capsella_rubella;Capsella_rubella_XP_023640356.1;NA;Cru__XP_023640356.1;NA;NA;NA
+126;Gamma-9b;Capsella_grandiflora;Capsella_grandiflora_Cagra.4044s0006.1.p;NA;Cgr__Cagra.4044s0006.1.p;NA;NA;NA
+125;Gamma-9b;Capsella_rubella;Capsella_rubella_XP_023634257.1;NA;Cru__XP_023634257.1;NA;NA;NA
+124;Gamma-9b;Capsella_rubella;Capsella_rubella_XP_006296244.1;NA;Cru__XP_006296244.1;NA;NA;NA
+123;Gamma-9b;Capsella_grandiflora;Capsella_grandiflora_Cagra.12068s0001.1.p;NA;Cgr__Cagra.12068s0001.1.p;NA;NA;NA
+122;Gamma-9a;A.arenosa_strecno;A.arenosa_strecno_g15551.t1;NA;Adi__jg15551;NA;NA;NA
+121;Gamma-9a;A.halleri_halleri;A.halleri_halleri_g7818;NA;Aha__jg7818;NA;NA;NA
+120;Gamma-9a;A.arenosa_MJ09;A.arenosa_MJ09_4_g12750.t1;NA;Aaa__jg12750;NA;NA;NA
+119;Gamma-9a;A.thaliana;Athaliana_At2g40210_AGL48_gamma;NA;Ath__AT2G40210;AGL48;AGL48;AGAMOUS-like 48
+118;Gamma-9a;A.halleri_halleri;A.halleri_halleri_g5461;NA;Aha__jg5461;NA;NA;NA
+117;Gamma-9a;A.lyrata_petraea;A.lyrata_petraea_g16389.t1;A.lyrata_petraea_jg6763;Ape__jg6763;NA;NA;NA
+116;Gamma-9a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020885147;NA;Aly__XP_020885147;NA;NA;NA
+115;Gamma-9a;A.arenosa_strecno;A.arenosa_strecno_g5841.t1;NA;Adi__jg5841;NA;NA;NA
+114;Gamma-9a;A.arenosa_MJ09;A.arenosa_MJ09_4_g19271.t1;NA;Aaa__jg19271;NA;NA;NA
+113;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006284897.2;NA;Cru__XP_006284897.2;NA;NA;NA
+112;Gamma-8;Capsella_grandiflora;Capsella_grandiflora_Cagra.2356s0007.1.p;NA;Cgr__Cagra.2356s0007.1.p;NA;NA;NA
+111;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006306009.2;NA;Cru__XP_006306009.2;NA;NA;NA
+110;Gamma-8;Capsella_grandiflora;Capsella_grandiflora_Cagra.0114s0045.1.p;NA;Cgr__Cagra.0114s0045.1.p;NA;NA;NA
+109;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006301788.1;NA;Cru__XP_006301788.1;NA;NA;NA
+108;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006301344.1;NA;Cru__XP_006301344.1;NA;NA;NA
+107;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006301142.1;NA;Cru__XP_006301142.1;NA;NA;NA
+106;Gamma-8;Capsella_rubella;Capsella_rubella_XP_006300971.1;NA;Cru__XP_006300971.1;NA;NA;NA
+105;Gamma-8;A.thaliana;Athaliana_At1g22590_AGL87_gamma;NA;Ath__AT1G22590;AGL87;AGL87;AGAMOUS-like 87
+104;Gamma-8;A.halleri_halleri;A.halleri_halleri_g19476;NA;Aha__jg19476;NA;NA;NA
+103;Gamma-8;A.lyrata_petraea;A.lyrata_petraea_g42491.t1;A.lyrata_petraea_jg10353;Ape__jg10353;NA;NA;NA
+102;Gamma-8;A.arenosa_strecno;A.arenosa_strecno_g8990.t1;NA;Adi__jg8990;NA;NA;NA
+101;Gamma-8;A.arenosa_MJ09;A.arenosa_MJ09_4_g30819.t1;NA;Aaa__jg30819;NA;NA;NA
+100;Gamma-7;Capsella_rubella;Capsella_rubella_XP_006286567.1;NA;Cru__XP_006286567.1;NA;NA;NA
+99;Gamma-7;Capsella_rubella;Capsella_rubella_XP_006286819.1;NA;Cru__XP_006286819.1;NA;NA;NA
+98;Gamma-7;Capsella_rubella;Capsella_rubella_XP_006279117.1;NA;Cru__XP_006279117.1;NA;NA;NA
+97;Gamma-7;A.thaliana;Athaliana_At5g26630_AGL35_gamma;NA;Ath__AT5G26630;AGL35;AGL35;AGAMOUS-like 35
+96;Gamma-7;A.halleri_halleri;A.halleri_halleri_g5765;NA;Aha__jg5765;NA;NA;NA
+95;Gamma-7;A.lyrata_petraea;A.lyrata_petraea_g3255.t1;A.lyrata_petraea_jg33157;Ape__jg33157;NA;NA;NA
+94;Gamma-7;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879188;NA;Aly__XP_020879188;NA;NA;NA
+93;Gamma-7;A.arenosa_strecno;A.arenosa_strecno_g12806.t1;NA;Adi__jg12806;NA;NA;NA
+92;Gamma-7;A.arenosa_MJ09;A.arenosa_MJ09_4_g6565.t1;NA;Aaa__jg6565;NA;NA;NA
+91;Gamma-6b;Capsella_rubella;Capsella_rubella_XP_006298183.1;NA;Cru__XP_006298183.1;NA;NA;NA
+90;Gamma-6b;Capsella_grandiflora;Capsella_grandiflora_Cagra.1772s0003.1.p;NA;Cgr__Cagra.1772s0003.1.p;NA;NA;NA
+89;Gamma-6b;A.arenosa_MJ09;A.arenosa_MJ09_4_g24512.t1;NA;Aaa__jg24512;NA;NA;NA
+88;Gamma-6b;A.lyrata_petraea;A.lyrata_petraea_g34133.t1;A.lyrata_petraea_jg26424;Ape__jg26424;NA;NA;NA
+87;Gamma-6b;A.halleri_halleri;A.halleri_halleri_g30829;NA;Aha__jg30829;NA;NA;NA
+86;Gamma-6a;A.thaliana;Athaliana_At5g48670_AGL80_gamma;NA;Ath__AT5G48670;AGL80;AGL80, FEM111;AGAMOUS-like 80
+85;Gamma-6a;A.thaliana;Arabidopsis_thaliana_AT5G27810_CIS_BP;NA;Ath__AT5G27810;CIS;NA;NA
+84;Gamma-6a;A.arenosa_strecno;A.arenosa_strecno_g34817.t1;NA;Adi__jg34817;NA;NA;NA
+83;Gamma-6a;A.arenosa_strecno;A.arenosa_strecno_g34814.t1;NA;Adi__jg34814;NA;NA;NA
+82;Gamma-6a;A.arenosa_MJ09;A.arenosa_MJ09_4_g21432.t1;NA;Aaa__jg21432;NA;NA;NA
+81;Gamma-6a;A.halleri_halleri;A.halleri_halleri_g23811;NA;Aha__jg23811;NA;NA;NA
+80;Gamma-6a;A.lyrata_petraea;A.lyrata_petraea_g8949.t1;A.lyrata_petraea_jg1361;Ape__jg1361;NA;NA;NA
+79;Gamma-6a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020871231;NA;Aly__XP_020871231;NA;NA;NA
+78;Gamma-5;Capsella_rubella;Capsella_rubella_XP_023642507.1;NA;Cru__XP_023642507.1;NA;NA;NA
+77;Gamma-5;Capsella_grandiflora;Capsella_grandiflora_Cagra.1772s0002.1.p;NA;Cgr__Cagra.1772s0002.1.p;NA;NA;NA
+76;Gamma-5;A.thaliana;Athaliana_At3g05860_AGL45-I_gamma;NA;Ath__AT3G05860;AGL45;AGL45;AGAMOUS-like 45
+75;Gamma-5;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889036;NA;Aly__XP_020889036;NA;NA;NA
+74;Gamma-5;A.lyrata_petraea;A.lyrata_petraea_g34132.t1;A.lyrata_petraea_jg26423;Ape__jg26423;NA;NA;NA
+73;Gamma-5;A.halleri_halleri;A.halleri_halleri_g30828;NA;Aha__jg30828;NA;NA;NA
+72;Gamma-5;A.arenosa_strecno;A.arenosa_strecno_g13996.t1;NA;Adi__jg13996;NA;NA;NA
+71;Gamma-5;A.arenosa_MJ09;A.arenosa_MJ09_4_g24511.t1;NA;Aaa__jg24511;NA;NA;NA
+70;Gamma-4;Capsella_rubella;Capsella_rubella_XP_006296573.2;NA;Cru__XP_006296573.2;NA;NA;NA
+69;Gamma-4;Capsella_rubella;Capsella_rubella_XP_006295398.1;NA;Cru__XP_006295398.1;NA;NA;NA
+68;Gamma-4;A.thaliana;Athaliana_At2g28700_AGL46_gamma;NA;Ath__AT2G28700;AGL46;AGL46;AGAMOUS-like 46
+67;Gamma-4;A.halleri_halleri;A.halleri_halleri_g1820;NA;Aha__jg1820;NA;NA;NA
+66;Gamma-4;A.lyrata_petraea;A.lyrata_petraea_g14716.t1;A.lyrata_petraea_jg5322;Ape__jg5322;NA;NA;NA
+65;Gamma-4;A.lyrata_lyrata;A.lyrata_lyrata_XP_020884864;NA;Aly__XP_020884864;NA;NA;NA
+64;Gamma-4;A.arenosa_strecno;A.arenosa_strecno_g3760.t1;NA;Adi__jg3760;NA;NA;NA
+63;Gamma-4;A.arenosa_MJ09;A.arenosa_MJ09_4_g17849.t1;NA;Aaa__jg17849;NA;NA;NA
+62;Gamma-3;Capsella_rubella;Capsella_rubella_XP_006286512.1;NA;Cru__XP_006286512.1;NA;NA;NA
+61;Gamma-3;Capsella_rubella;Capsella_rubella_XP_006289608.1;NA;Cru__XP_006289608.1;NA;NA;NA
+60;Gamma-3;Capsella_rubella;Capsella_rubella_XP_006287931.1;NA;Cru__XP_006287931.1;NA;NA;NA
+59;Gamma-3;A.thaliana;Athaliana_At5g26580_AGL34_gamma;NA;Ath__AT5G26580;AGL34;AGL34;AGAMOUS-like-34
+58;Gamma-3;A.thaliana;Athaliana_At5g27960_AGL90_gamma;NA;Ath__AT5G27960;AGL90;AGL90;AGAMOUS-like 90
+57;Gamma-3;A.thaliana;Athaliana_At5g26650_AGL36_gamma;NA;Ath__AT5G26650;AGL36;AGL36;AGAMOUS-like 36
+56;Gamma-3;A.arenosa_strecno;A.arenosa_strecno_g12804.t1;NA;Adi__jg12804;NA;NA;NA
+55;Gamma-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6562.t1;NA;Aaa__jg6562;NA;NA;NA
+54;Gamma-3;A.lyrata_petraea;A.lyrata_petraea_g3248.t1;A.lyrata_petraea_jg33154;Ape__jg33154;NA;NA;NA
+53;Gamma-3;A.lyrata_lyrata;A.lyrata_lyrata_XP_020879058;NA;Aly__XP_020879058;NA;NA;NA
+52;Gamma-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6814.t1;NA;Aaa__jg6814;NA;NA;NA
+51;Gamma-3;A.halleri_halleri;A.halleri_halleri_g18497;NA;Aha__jg18497;NA;NA;NA
+50;Gamma-3;A.arenosa_MJ09;A.arenosa_MJ09_4_g6809.t1;NA;Aaa__jg6809;NA;NA;NA
+49;Gamma-2b;Capsella_rubella;Capsella_rubella_XP_006306141.2;NA;Cru__XP_006306141.2;NA;NA;NA
+48;Gamma-2b;Capsella_grandiflora;Capsella_grandiflora_Cagra.1508s0040.1.p;NA;Cgr__Cagra.1508s0040.1.p;NA;NA;NA
+47;Gamma-2b;A.arenosa_strecno;A.arenosa_strecno_g11734.t1;NA;Adi__jg11734;NA;NA;NA
+46;Gamma-2b;A.arenosa_MJ09;A.arenosa_MJ09_4_g31786.t1;NA;Aaa__jg31786;NA;NA;NA
+45;Gamma-2b;A.lyrata_lyrata;A.lyrata_lyrata_XP_020869435;NA;Aly__XP_020869435;NA;NA;NA
+44;Gamma-2b;A.halleri_halleri;A.halleri_halleri_g30084;NA;Aha__jg30084;NA;NA;NA
+43;Gamma-2b;A.lyrata_petraea;A.lyrata_petraea_g44445.t1;A.lyrata_petraea_jg11733;Ape__jg11733;NA;NA;NA
+42;Gamma-2b;A.lyrata_petraea;A.lyrata_petraea_g43646.t1;A.lyrata_petraea_jg11270;Ape__jg11270;NA;NA;NA
+41;Gamma-2a;A.thaliana;Athaliana_At1g31640_AGL92_gamma;NA;Ath__AT1G31640;AGL92;AGL92;AGAMOUS-like 92
+40;Gamma-2a;A.thaliana;Arabidopsis_thaliana_AT1G33070_CIS_BP;NA;Ath__AT1G33070;CIS;NA;NA
+39;Gamma-2a;A.thaliana;Athaliana_At1g31630_AGL86_gamma;NA;Ath__AT1G31630;AGL86;AGL86;AGAMOUS-like 86
+38;Gamma-2a;A.arenosa_strecno;A.arenosa_strecno_g11736.t1;NA;Adi__jg11736;NA;NA;NA
+37;Gamma-2a;A.arenosa_MJ09;A.arenosa_MJ09_4_g31787.t1;NA;Aaa__jg31787;NA;NA;NA
+36;Gamma-2a;A.lyrata_petraea;A.lyrata_petraea_g43653.t1;A.lyrata_petraea_jg11275;Ape__jg11275;NA;NA;NA
+35;Gamma-2a;A.lyrata_petraea;A.lyrata_petraea_g43651.t1;A.lyrata_petraea_jg11273;Ape__jg11273;NA;NA;NA
+34;Gamma-2a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020870022;NA;Aly__XP_020870022;NA;NA;NA
+33;Gamma-2a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020866128;NA;Aly__XP_020866128;NA;NA;NA
+32;Gamma-1c;Capsella_rubella;Capsella_rubella_XP_006302784.1;NA;Cru__XP_006302784.1;NA;NA;NA
+31;Gamma-1c;Capsella_grandiflora;Capsella_grandiflora_Cagra.1777s0039.1.p;NA;Cgr__Cagra.1777s0039.1.p;NA;NA;NA
+30;Gamma-1c;Capsella_rubella;Capsella_rubella_XP_023637087.1;NA;Cru__XP_023637087.1;NA;NA;NA
+29;Gamma-1c;Capsella_grandiflora;Capsella_grandiflora_Cagra.0753s0004.1.p;NA;Cgr__Cagra.0753s0004.1.p;NA;NA;NA
+28;Gamma-1c;A.arenosa_strecno;A.arenosa_strecno_g4228.t1;NA;Adi__jg4228;NA;NA;NA
+27;Gamma-1c;A.halleri_halleri;A.halleri_halleri_g19335;NA;Aha__jg19335;NA;NA;NA
+26;Gamma-1c;A.arenosa_MJ09;A.arenosa_MJ09_4_g2642.t1;NA;Aaa__jg2642;NA;NA;NA
+25;Gamma-1c;A.halleri_halleri;A.halleri_halleri_g19892;NA;Aha__jg19892;NA;NA;NA
+24;Gamma-1c;A.lyrata_petraea;A.lyrata_petraea_g20045.t1;A.lyrata_petraea_jg24046;Ape__jg24046;NA;NA;NA
+23;Gamma-1c;A.arenosa_MJ09;A.arenosa_MJ09_4_g2103.t1;NA;Aaa__jg2103;NA;NA;NA
+22;Gamma-1b;A.thaliana;Athaliana_At1g65300_AGL38_gamma;NA;Ath__AT1G65300;AGL38;AGL38, PHE2;AGAMOUS-like 38
+21;Gamma-1b;A.lyrata_petraea;A.lyrata_petraea_g19077.t1;A.lyrata_petraea_jg23525;Ape__jg23525;NA;NA;NA
+20;Gamma-1b;A.lyrata_lyrata;A.lyrata_lyrata_XP_020890945;NA;Aly__XP_020890945;NA;NA;NA
+19;Gamma-1b;A.lyrata_lyrata;A.lyrata_lyrata_XP_020889601;NA;Aly__XP_020889601;NA;NA;NA
+18;Gamma-1b;A.lyrata_petraea;A.lyrata_petraea_g19304.t1;A.lyrata_petraea_jg23630;Ape__jg23630;NA;NA;NA
+17;Gamma-1b;A.arenosa_strecno;A.arenosa_strecno_g23199.t1;NA;Adi__jg23199;NA;NA;NA
+16;Gamma-1b;A.arenosa_MJ09;A.arenosa_MJ09_4_g1870.t1;NA;Aaa__jg1870;NA;NA;NA
+15;Gamma-1a;A.thaliana;Athaliana_At1g65330_AGL37_gamma;NA;Ath__AT1G65330;AGL37;AGL37, PHE1;PHERES1
+14;Gamma-1a;A.arenosa_strecno;A.arenosa_strecno_g33080.t1;NA;Adi__jg33080;NA;NA;NA
+13;Gamma-1a;A.arenosa_MJ09;A.arenosa_MJ09_4_g1882.t1;NA;Aaa__jg1882;NA;NA;NA
+12;Gamma-1a;A.arenosa_MJ09;A.arenosa_MJ09_4_g1881.t1;NA;Aaa__jg1881;NA;NA;NA
+11;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19321.t1;A.lyrata_petraea_jg23644;Ape__jg23644;NA;NA;NA
+10;Gamma-1a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020891479;NA;Aly__XP_020891479;NA;NA;NA
+9;Gamma-1a;A.arenosa_strecno;A.arenosa_strecno_g23206.t1;NA;Adi__jg23206;NA;NA;NA
+8;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19318.t1;A.lyrata_petraea_jg23642;Ape__jg23642;NA;NA;NA
+7;Gamma-1a;A.halleri_halleri;A.halleri_halleri_g26348;NA;Aha__jg26348;NA;NA;NA
+6;Gamma-1a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020891468;NA;Aly__XP_020891468;NA;NA;NA
+5;Gamma-1a;A.lyrata_lyrata;A.lyrata_lyrata_XP_020865902;NA;Aly__XP_020865902;NA;NA;NA
+4;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19339.t1;A.lyrata_petraea_jg23654;Ape__jg23654;NA;NA;NA
+3;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19334.t1;A.lyrata_petraea_jg23651;Ape__jg23651;NA;NA;NA
+2;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19574.t1;A.lyrata_petraea_jg23808;Ape__jg23808;NA;NA;NA
+1;Gamma-1a;A.lyrata_petraea;A.lyrata_petraea_g19569.t1;A.lyrata_petraea_jg23805;Ape__jg23805;NA;NA;NA
