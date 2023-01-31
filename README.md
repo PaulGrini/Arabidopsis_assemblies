@@ -7,8 +7,8 @@ This is a GitHub repository with data associated to the manuscript
 
 **Under Construction**
 ## 1. <i>Arabidopsis arenosa</i> 
-The assembly pipeline with scripts and additional information can be found  [here (under construction)](01_arenosa_assembly/).
-The genome can be accessed at [NCBI Genome page](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_026151155.1/) 
+The assembly pipeline with scripts and additional information can be found  [here (under construction)](01_arenosa_assembly/).  
+The genome can be accessed at [the NCBI Genome page](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_026151155.1/)   
 Or you can download it directly from github:
 - The full genome: [Arabidopsis_arenosa_genome.fna.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.fna.gz)
 - The genome with repeats softmasked according to RepeatMasker: [Arabidopsis_arenosa_genome.softmasked.fna.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.softmasked.fna.gz)
