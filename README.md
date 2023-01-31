@@ -29,3 +29,5 @@ MEME analysis of  MADS-box genes type I and type II in <i>A. lyrata</i> ssp. <i>
 - View/download the results as [a text file](03_analysis/06_MADS_MEME/meme_results.txt). 
 
 **MORE TO COME**
+----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaulGrini%2FArabidopsis_assemblies&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
