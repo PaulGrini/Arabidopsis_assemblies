@@ -22,13 +22,14 @@ The assembly pipeline with scripts and additional information can be found  [her
 
 ## 3. Analysis
 In the paper, we compared the new assemblies with previously published genomes from the Arabidopsis genus, as well as the evolution of the MADS-box gene family in the genus Arabidopsis.  
+**Content of the analysis** [here](./03_analysis/)
+- [3.1 Assembly and scaffolding stats](./03_analysis/01_assembly_and_scaffolding_stats/)
+- [3.2 Orthology analysis](./03_analysis/02_ortholog_prediction/)
+- [3.3 Synteny](./03_analysis/03_synteny/)
+- [3.5 Phylogeny og MADS-boxes](./03_analysis/05_MADS_phylogeny/)
+- [3.6 MEME motif analysis og MADS-box genes](./03_analysis/06_MADS_MEME/)
+MEME analysis of  MADS-box genes type I and type II in <i>A. lyrata</i> ssp. <i>petraea</i>, <i>A. arenosa</i> Pusté Pole, <i>A. lyrata </i>ssp. <i>lyrata,</i> <i>A. arenosa</i> Strecno, <i>A. halleri</i>,  <i>Capsella rubella</i> and <i>C. grandiflora</i>.  View the full [MEME results as html](https://htmlpreview.github.io/?https://github.com/krabberod/html_test/blob/main/meme.html) . View/download the results as [a text file](03_analysis/06_MADS_MEME/meme_results.txt). 
 
-#### MEME analysis 
-MEME analysis of  MADS-box genes type I and type II in <i>A. lyrata</i> ssp. <i>petraea</i>, <i>A. arenosa</i> Pusté Pole, <i>A. lyrata </i>ssp. <i>lyrata,</i> <i>A. arenosa</i> Strecno, <i>A. halleri</i>,  <i>Capsella rubella</i> and <i>C. grandiflora</i>
-
-- View the full [MEME results as html](https://htmlpreview.github.io/?https://github.com/krabberod/html_test/blob/main/meme.html)  
-- View/download the results as [a text file](03_analysis/06_MADS_MEME/meme_results.txt). 
-
-**MORE TO COME**
+*
 ----
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaulGrini%2FArabidopsis_assemblies&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
