@@ -1,9 +1,13 @@
 # Arabidopsis arenosa and A. lyrata genome assemblies
-This is a GitHub repository with data associated to the manuscript  
+This is a GitHub repository with data associated to the paper:   
    
-**"New assemblies of A. <i>arenosa</i> and <i>A. lyrata</i> suggests structural evidence for MADS-box type I family expansion"**
 
-​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini (submitted) 
+**Structural evidence for MADS-box type I family expansion seen in new assemblies of <i>Arabidopsis arenosa</i> and <i>A. lyrata</i>**
+
+_The Plant Journal_
+
+​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini 
+[https://onlinelibrary.wiley.com/doi/10.1111/tpj.16401](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16401)
 
 **Under Construction**
 ## 1. <i>Arabidopsis arenosa</i> 
@@ -15,7 +19,8 @@ Or you can download it directly from github:
 - The genome annotation in gtf format with the predicted genes from braker2 [Arabidopsis_arenosa_genome.annotation.gtf.gz](01_arenosa_assembly/Arabidopsis_arenosa_genome.annotation.gtf.gz).
 
 ## 2. <i>Arabidopsis lyrata</i> 
-The assembly pipeline with scripts and additional information can be found  [here (under construction)](02_lyrata_assembly/)
+The assembly pipeline with scrips and additional information can be found  [here (under construction)](02_lyrata_assembly/)
+Link to the [NCBI Genome Page](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_026151145.1/)
 - The full genome: [Arabidopsis_lyrata_petraea_genome.fna.gz](02_lyrata_assembly/Arabidopsis_lyrata_petraea_genome.fna.gz)
 - The genome with repeats softmasked according to RepeatMasker: [...](02_lyrata_assembly/)
 - The genome annotation in gtf format with the predicted genes from braker2 [Arabidopsis_lyrata_petraea_genome.annotation.gtf.gz](02_lyrata_assembly/Arabidopsis_lyrata_petraea_genome.annotation.gtf.gz).
