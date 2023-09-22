@@ -6,7 +6,7 @@ This is a GitHub repository with data associated to the paper:
 
 _The Plant Journal_
 
-​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini 
+​​**Authors:** Jonathan Bramsiepe, Anders K. Krabberød, Katrine N. Bjerkan, Renate M. Alling, Ida M. Nielsen. Karina S. Hornslien, Jason R. Miller, Anne K. Brysting, and Paul E. Grini   
 [https://onlinelibrary.wiley.com/doi/10.1111/tpj.16401](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16401)
 
 **Under Construction**
