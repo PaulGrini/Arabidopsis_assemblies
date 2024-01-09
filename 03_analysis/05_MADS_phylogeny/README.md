@@ -1,1 +1,1 @@
-![](./images/Class_of_2023_v2.png)
+![](./Supplementary_figure_S8.png)
